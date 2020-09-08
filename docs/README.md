@@ -4,9 +4,12 @@
 
 ## Alunos
 |Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0008371 | [Daniel Sousa Melo](https://github.com/dansousamelo) |
+| 17/0016811 | [Lucas Leite Maduro](https://github.com/lucasqmc) |
+| 17/0039803 | [Lucas Medeiros](https://github.com/medeiroslucas) |
+| 14/0169695 | [Luis Bruno Fidelis](https://github.com/lbrunofidelis) |
+| 15/0144474 | [Pedro Queiroz Miranda](https://github.com/pedroMiranda7410) |
+| 17/0046176 | [Tiago Miguel](https://github.com/tmcstiago) |
 
 ## Instalação 
 
