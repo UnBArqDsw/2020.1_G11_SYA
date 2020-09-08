@@ -16,32 +16,22 @@
 #### Criando ambiente virtual
 
 ```bash
-$ virtualenv env
+$ nodeenv env
 ```
 
-#### Instalação Mkdocs
+#### Instalação Docsify
 
 ```bash
 $ source env/bin/activate	# acessando o ambiente virtual
-(env)$ pip install mkdocs
+(env)$ npm i docsify-cli -g
 ```
 
 ## Comandos
 
-#### Iniciar o servidor do Mkdocs
+#### Iniciar o servidor Docsify
 
 ```bash
-(env)$ mkdocs serve
+(env)$ docsify serve docs
 ```
 
-#### Buildar a documentação
-
-```bash
-(env)$ mkdocs build
-```
-
-#### Realizar o deploy da documentação
-
-```bash
-(env)$ mkdocs gh-deploy
-```
+Para realizar o deploy basta commitar as modificações
