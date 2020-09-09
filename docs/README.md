@@ -3,7 +3,8 @@
 **Código da Disciplina**: FGA0208-T01<br>
 
 ## Alunos
-|Matrícula | Aluno |
+| Matrícula | Aluno |
+| --------- | ----- |
 | 17/0008371 | [Daniel Sousa Melo](https://github.com/dansousamelo) |
 | 17/0016811 | [Lucas Leite Maduro](https://github.com/lucasqmc) |
 | 17/0039803 | [Lucas Medeiros](https://github.com/medeiroslucas) |
@@ -13,13 +14,13 @@
 
 ## Instalação 
 
-#### Criando ambiente virtual
+### Criando ambiente virtual
 
 ```bash
 $ nodeenv env
 ```
 
-#### Instalação Docsify
+### Instalação Docsify
 
 ```bash
 $ source env/bin/activate	# acessando o ambiente virtual
@@ -28,7 +29,7 @@ $ source env/bin/activate	# acessando o ambiente virtual
 
 ## Comandos
 
-#### Iniciar o servidor Docsify
+### Iniciar o servidor Docsify
 
 ```bash
 (env)$ docsify serve docs
