@@ -1,7 +1,7 @@
 # **Guia de Estilo**
 
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA//assets/guia_de_estilo/paint.png">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/paint.png">
 </div>
 
 <p align="justify">&emsp;É comum, principalmente em projetos grandes, reunir os princípios e as diretrizes adotados em um documento intitulado guia de estilo. Trata-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final. Guias de estilo servem de ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. É importante que as decisões de design possam ser facilmente consultadas e reutilizadas nas discussões sobre extensões ou versões futuras do produto.</p>
@@ -13,7 +13,7 @@ Data | Responsável | Versão | Alteração
 
 ## **Tipografia**
 
-<p align="justify">&emsp;A imagem abaixo nos mostra a tipografia da aplicação:</p>
+<p align="justify">&emsp;A imagem abaixo nos mostra a tipografia da aplicação que se baseia ma família Montserrat:</p>
 
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/Tipografia.png">
@@ -64,10 +64,6 @@ Data | Responsável | Versão | Alteração
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/inputs.png">
 </div>
-
-Referências
-SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a . Edição, Editora Campus, 2010.
-
 
 ## **Referências**
  * <p align="justify">SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a . Edição, Editora Campus, 2010.</p>

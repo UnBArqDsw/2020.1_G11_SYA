@@ -1,6 +1,6 @@
 # **Rich Picture**
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="../assets/richpictures/map.png">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/richpictures/map.png">
 </div>
 
 <p align="justify">&emsp;O Rich Picture é um modelo que explora o máximo de elementos e relações entorno de uma certa situação, desta forma, é possivel constatar aspectos que antes passariam despercebidos pelo time.</p>
