@@ -5,7 +5,7 @@
 
 <p align="justify">&emsp;O Rich Picture é um modelo que explora o máximo de elementos e relações entorno de uma certa situação, desta forma, é possivel constatar aspectos que antes passariam despercebidos pelo time.</p>
 
-<p align="justify">&emsp;Inicialmente cada participante do grupo ficou responsável por fazer o Rich Picture de um aplicativo específico, logo, o primeiro Rich Picture foi realizado por um único integrante do grupo. Após a seleção do aplicativo o time se reuniu para produzir uma nova versão do documento com pontos mais detalhados e com mais informações do aplicativo.</p>
+<p align="justify">&emsp;Inicialmente cada participante do grupo ficou responsável por fazer o Rich Picture de um aplicativo específico, após a seleção do aplicativo o time se reuniu para produzir uma nova versão do documento com pontos mais detalhados e com mais informações do aplicativo.</p>
 
 ## Histórico de Versões
 
