@@ -13,27 +13,35 @@
 | ---- | ------ | --------- | --------- |
 | 02/09/2020 | 1.0 | Criação do documento sobre Rich Pictures e subindo Rich Picture do Pedro e Do Lucas Leite | Pedro Mirando ([@pedroMiranda7410]((https://github.com/pedroMiranda7410)))  e Lucas Leite ([@lucasqmc](https://github.com/lucasqmc)) |
 | 08/09/2020 | 1.1 | Adicionando Rich Picture do Daniel, Luis e Medeiros| Daniel Sousa ([@dansousamelo]((https://github.com/dansousamelo)))|
+| 10/09/2020 | 1.2 | Adicionando V2 Rich Picture fluxo geral e cliente| Daniel Sousa ([@dansousamelo]((https://github.com/dansousamelo)))|
 
-## Pedro Miranda
+## RP - V1
+### Pedro Miranda
 
 ![Richpicture](../assets/richpictures/pedro_richpicture.png)
 
-## Lucas leite
+### Lucas leite
 
 ![Richpicture](../assets/richpictures/indio_richpicture.jpeg)
 
-## Daniel de Sousa
+### Daniel de Sousa
 
 ![Richpicture](../assets/richpictures/danielPic.jpg)
 
-## Luis Bruno
+### Luis Bruno
 
 ![Richpicture](../assets/richpictures/luisPic.jpg)
 
-## Lucas Medeiros
+### Lucas Medeiros
 
 ![Richpicture](../assets/richpictures/medeirosPic.jpeg)
 
+## RP - V2
+### Rich Picture - Fluxo Geral
+![Richpicture](../assets/richpictures/v2_geral.png)
+
+### Rich Picture - Fluxo Cliente
+![Richpicture](../assets/richpictures/client_rich.png)
 
 ## Referências
  * <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 4; Disponível em https://aprender.ead.unb.br/pluginfile.php/706393/mod_resource/content/1/Requisitos%20-%20Aula%2004.pdf.
