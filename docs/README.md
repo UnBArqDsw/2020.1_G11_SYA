@@ -12,6 +12,37 @@
 | 15/0144474 | [Pedro Queiroz Miranda](https://github.com/pedroMiranda7410) |
 | 17/0046176 | [Tiago Miguel](https://github.com/tmcstiago) |
 
+
+## Histórico de Versões da wiki
+
+<table>
+    <thead>
+        <th>Data</th>
+        <th>Versão</th>
+        <th>Descrição</th>
+        <th>Autor(es)</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>09/09/2020</td>
+            <td>1.0</td>
+            <td>Realizando configuração da wiki com o plugin docsify</td>
+            <td>
+                <a href="https://github.com/medeiroslucas">Lucas Medeiros</a>
+            </td>
+        </tr>
+        <tr>
+            <td>09/09/2020</td>
+            <td>2.0</td>
+            <td>Desenvolvendo HTML e CSS customizado para ficar de acordo com o guia de estilo do SYA</td>
+            <td>
+                <a href="https://github.com/pedroMiranda7410">Pedro Miranda</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 ## Instalação 
 
 ### Criando ambiente virtual
