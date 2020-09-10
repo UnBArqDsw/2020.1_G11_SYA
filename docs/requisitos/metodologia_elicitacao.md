@@ -1,7 +1,7 @@
 # Metodologia de Elicitação
 
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="../assets/metodologia/doc.png">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/metodologia/docu.png">
 </div>
 
 <p align="justify">&emsp;Baseado no <b>modelo Kano</b> e no <b>Desdobramento da Função Qualidade (QFD)</b> o grupo preocupou-se em levantar os requisitos categorizando-os de acordo com a satisfação de um stakeholder.</p>
@@ -16,7 +16,7 @@
 <p align="justify">&emsp;Na imagem abaixo podemos ver três categorias, categoria de requisitos surpresa, esperados e óbvios.</p>
 
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="../assets/metodologia/stakeholder.png">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/metodologia/stakeholder.png">
 </div>
 <div style="display: flex; justify-content: center; align-items:center;">
     <i><p>Categorização dos requisitos, a seta a esquerda simboliza o grau de satisfação do stakeholder.</p></i>
@@ -31,7 +31,7 @@
 <p align="justify">&emsp;A partir dos conceitos apresentados, o grupo procurou realizar as seguintes técnicas para elicitar requisitos da melhor forma possível. A imagem abaixo retrata as técnicas utilizadas.</p>
 
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="../assets/metodologia/tec.png">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/metodologia/tec.png">
 </div>
 <div style="display: flex; justify-content: center; align-items:center;">
     <i><p>Técnicas utilizadas.</p></i>

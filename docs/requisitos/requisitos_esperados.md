@@ -1,14 +1,8 @@
 # Requisitos Esperados
 
-
-## **Observação**
-
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/observacao/bino.png">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/metodologia/docu.png">
 </div>
-
-<p align="justify">&emsp;A técnica de observação, como o próprio nome sugere, consiste em observar o problema e tentar entendê-lo, visitando o local em foco com a finalidade de observação do mesmo. Permitindo assim, coletar informações de acordo com o cotidiano das operações e execução dos processos diários do local.</p>
-<p align="justify">&emsp;Procuramos ir em lugares em que um agendamento é necessário, abaixo temos os nossos ambientes de observação:</p>
 
 ## Histórico de Versões
 
@@ -18,6 +12,15 @@
 | 08/09/2020 | 1.1 | Revisão dos Requisitos | Lucas Medeiros ([@medeirosLucas](https://github.com/medeiroslucas)) e Tiago Miguel ([@tmcstiago](https://github.com/tmcstiago)) |
 | 02/09/2020 | 1.2 | Criação do tópico entrevistas | Daniel Sousa ([@dansousamelo]((https://github.com/dansousamelo)))  e Luis Bruno ([@lbrunofidelis](https://github.com/lbrunofidelis)) |
 | 08/09/2020 | 1.3 | dicionando entrevistas realizadas | Lucas Medeiros ([@medeirosLucas](https://github.com/medeiroslucas)) e Tiago Miguel ([@tmcstiago](https://github.com/tmcstiago)) |
+## **Observação**
+
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/observacao/bino.png">
+</div>
+
+
+<p align="justify">&emsp;A técnica de observação, como o próprio nome sugere, consiste em observar o problema e tentar entendê-lo, visitando o local em foco com a finalidade de observação do mesmo. Permitindo assim, coletar informações de acordo com o cotidiano das operações e execução dos processos diários do local.</p>
+<p align="justify">&emsp;Procuramos ir em lugares em que um agendamento é necessário, abaixo temos os nossos ambientes de observação:</p>
 
 ### Griffe Da Beleza
 
