@@ -29,7 +29,7 @@
     <i><p>@griffedabeleza_g</p></i>
 </div>
 
-<p align="justify">&emsp;O integrante do grupo Daniel foi até um centro de medicina e estética observar como era feito o agendamento, o mesmo observou:</p>
+<p align="justify">&emsp;O integrante do grupo Daniel foi até um salão de beleza observar como era feito o agendamento, o mesmo observou:</p>
 <p align="justify">&emsp;<i>“Observando e conversando informalmente com uma das balconistas, Solange, ele me contou que os agendamentos ou eram via aplicativo de mensagem ou por ligação telefônica, esse esses são registrados em um caderno.  A balconista me contou também que em dias com a agenda muito cheia ficava um pouco difícil de lidar  com a demanda”.</i></p>
 
 <div style="display: flex; justify-content: center; align-items:center;">
