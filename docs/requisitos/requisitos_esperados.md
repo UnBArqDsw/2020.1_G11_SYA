@@ -200,13 +200,13 @@
 ## Requisitos Esperados Levantados
 
 1. O sistema deve ser capaz de cadastrar um funcionário;
-1. O sistema deve ser capaz de cadastrar um serviço;
-1. O sistema deve ser capaz de cadastrar um agendamento de um serviço referente a um único usuário;
-1. O usuário deve ser capaz de criar o seu agendamento selecionando um funcionário e um serviço;
-1. O sistema deve gerar um link que será enviado para o usuário realizar o agendamento;
-1. O sistema deve ser capaz de mostrar para um funcionário a agenda diária, semanal e mensal;
-1. O sistema deve possuir um modelo conceitual do banco de dados;
-1. O sistema deve possuir realizar restrição de acesso para funcionários.
+2. O sistema deve ser capaz de cadastrar um serviço;
+3. O sistema deve ser capaz de cadastrar um agendamento de um serviço referente a um único usuário;
+4. O usuário deve ser capaz de criar o seu agendamento selecionando um funcionário e um serviço;
+5. O sistema deve gerar um link que será enviado para o usuário realizar o agendamento;
+6. O sistema deve ser capaz de mostrar para um funcionário a agenda diária, semanal e mensal;
+7. O sistema deve possuir um modelo conceitual do banco de dados;
+8. O sistema deve possuir realizar restrição de acesso para funcionários.
 
 ## Referências
  * <p align="justify">ELICITAÇÃO de Requisitos de Software - Mini Curso. Produção: Roberto Sabino. [S. l.: s. n.], 2018. Disponível em: https://www.udemy.com/share/101CgSBUQYeFlTTHw=/. Acesso em: 2 set. 2020.

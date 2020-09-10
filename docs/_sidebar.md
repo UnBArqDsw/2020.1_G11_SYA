@@ -7,7 +7,6 @@
 	[Requisitos Óbvios](requisitos/requisitos_obvios.md)
 	[Requisitos Esperados](requisitos/requisitos_esperados.md)
 	[Requisitos Surpresas](requisitos/requisitos_surpresas.md)
-	[Brainstorm](requisitos/brainstorm.md)
 	[Léxico](lexico/lexico.md)
 	[Glossário](glossario/glossario.md)
 	[Estimativas](estimativas/estimativas.md)
