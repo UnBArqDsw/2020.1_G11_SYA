@@ -7,6 +7,7 @@
 
 <p align="justify">&emsp;Inicialmente cada participante do grupo ficou responsável por fazer o Rich Picture de um aplicativo específico, logo, o primeiro Rich Picture foi realizado por um único integrante do grupo. Após a seleção do aplicativo o time se reuniu para produzir uma nova versão do documento com pontos mais detalhados e com mais informações do aplicativo.</p>
 
+## Histórico de Versões
 
 <table>
     <thead>
