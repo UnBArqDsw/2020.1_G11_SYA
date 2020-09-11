@@ -81,16 +81,6 @@ Para realizar o deploy basta commitar as modificações
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
 ## Vídeo
-<p align="center"><iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/certo.mp4" frameborder="0" width="600" height="390" allowfullscreen="true"e mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
-
-<i>
-  Este vídeo é referente ao Protótipo de Alta Fidelidade.<br/>
-  Para visualizar acesse:
-  <a href="https://www.figma.com/proto/Bw0ZyS0OWPlpQYDZ6XtB99/SYA?node-id=7%3A2&scaling=min-zoom">
-    Figma
-  </a>
-</i>
-
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
