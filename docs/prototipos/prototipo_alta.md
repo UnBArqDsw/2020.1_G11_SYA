@@ -10,12 +10,54 @@
  ## **Histórico de revisões**
 Data | Responsável | Versão | Alteração 
 ---- | ----------- | ------ | ---------
-09/09/2020 | [@dansousamelo](http://github.com/dansousamelo) | 1.0 | Finalizando telas.
+09/09/2020 | [@dansousamelo](http://github.com/dansousamelo) | 1.0 | Finalizando vídeo da execução do protótipo|
+10/09/2020 | [@dansousamelo](http://github.com/dansousamelo) | 1.1 | Adicionando features|
 
 <p align="center"><iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/certo.mp4" frameborder="0" width="600" height="390" allowfullscreen="true"e mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
 Para visualizar acesse:
 <a href="https://www.figma.com/proto/Bw0ZyS0OWPlpQYDZ6XtB99/SYA?node-id=7%3A2&scaling=min-zoom">Figma</a>
+
+## F01 v1
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f1-1.png">
+</div>
+
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f1-2.png">
+</div>
+
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f1-3.png">
+</div>
+
+## F02 v1
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f2.png">
+</div>
+
+## F03 v1
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f3-1.png">
+</div>
+
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f3-2.png">
+</div>
+
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f3-3.png">
+</div>
+
+## F04 v1
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f4.png">
+</div>
+
+## F05 v1
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f5.png">
+</div>
 
 
 
