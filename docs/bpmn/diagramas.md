@@ -19,7 +19,7 @@
 
 ### **BPMN - Processos Gerais**
 <div style="display: flex; justify-content: center; align-items:center;">
-<iframe src="../assets/diagramas/bpmn-geral.svg" width="1500" height="1000"></iframe>
+<iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-geral.svg" width="1500" height="1000"></iframe>
 </div>
 
 
