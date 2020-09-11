@@ -18,7 +18,7 @@ Um glossário nada mais é que um dicionário de palavras de sentido obscuro ou 
     <tbody>
         <td>10/09/2020</td>
         <td>1.0</td>
-        <td>Criação do documento Glossário e subindo léxicos 1, 2 ,3 ,4 e 5</td>
+        <td>Criação do documento Glossário e subindo Glossário Calendário</td>
         <td>
             <a href="https://github.com/pedroMiranda7410">Pedro Miranda</a>
         </td>
