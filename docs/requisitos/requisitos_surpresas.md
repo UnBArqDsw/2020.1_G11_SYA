@@ -101,6 +101,6 @@ A equipe utilizou a técnica do brainstorming para levantar os requisitos surpre
 # Referência
 
 - REQUISITOS DO APP RICO, REQUISITOS DE SOFTWARE UNB, FGA. <b>Léxicos</b>.Disponível em: https://requisitos-de-software.github.io/2019.2-Rico/Modelagem/lexicos. Acesso em: 10 set. 2020.
-- BRUM, Bruno; PENA, Leandro. Engenharia de Requisitos – Técnicas. Brasil, 27 abr. 2011. Disponível em: https://brunobrum.wordpress.com/2011/04/27/principais-tecnicas-de-levantamento-de-requisitos-de-sistemas/. Acesso em: 14 set. 2019.
+- BRUM, Bruno; PENA, Leandro. Engenharia de Requisitos – Técnicas. Brasil, 27 abr. 2011. Disponível em: https://brunobrum.wordpress.com/2011/04/27/principais-tecnicas-de-levantamento-de-requisitos-de-sistemas/. Acesso em: 1 set. 2020.
 
 

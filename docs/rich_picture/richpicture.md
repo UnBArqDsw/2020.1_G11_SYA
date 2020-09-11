@@ -11,7 +11,7 @@
 
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
-| 02/09/2020 | 1.0 | Criação do documento sobre Rich Pictures e subindo Rich Picture do Pedro e Do Lucas Leite | Pedro Mirando ([@pedroMiranda7410]((https://github.com/pedroMiranda7410)))  e Lucas Leite ([@lucasqmc](https://github.com/lucasqmc)) |
+| 02/09/2020 | 1.0 | Criação do documento sobre Rich Pictures e subindo Rich Picture do Pedro e Do Lucas Leite | Pedro Miranda ([@pedroMiranda7410]((https://github.com/pedroMiranda7410)))  e Lucas Leite ([@lucasqmc](https://github.com/lucasqmc)) |
 | 08/09/2020 | 1.1 | Adicionando Rich Picture do Daniel, Luis e Medeiros| Daniel Sousa ([@dansousamelo]((https://github.com/dansousamelo)))|
 | 10/09/2020 | 1.2 | Adicionando V2 Rich Picture fluxo geral e cliente| Daniel Sousa ([@dansousamelo]((https://github.com/dansousamelo)))|
 
