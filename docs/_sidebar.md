@@ -15,3 +15,6 @@
 	[Protótipo de Baixa Fidelidade](prototipos/prototipo_baixa.md)
 	[Protótipo de Alta Fidelidade](prototipos/prototipo_alta.md)
 	[Guia de Estilo](prototipos/guia_estilo.md)
+
+* **Modelagem BPMN**
+	[Diagramas BPMN](bpmn/diagramas.md)
