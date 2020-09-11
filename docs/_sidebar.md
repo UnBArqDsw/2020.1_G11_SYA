@@ -1,6 +1,9 @@
-[Definições de Projeto](definicao_projeto/definicao_projeto.md)
-[Rich Picture](rich_picture/richpicture.md)
-[5W2H](5W2H/5W2H.md)
+* **Projeto**
+	[Metodologia](metodologia/metodologia.md)
+
+* **Pré-Rastreabilidade**
+	[Rich Picture](rich_picture/richpicture.md)
+	[5W2H](5W2H/5W2H.md)
 
 * **Elicitação de Requisitos**
 	[Metodologia de Elicitação](requisitos/metodologia_elicitacao.md)
