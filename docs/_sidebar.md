@@ -7,7 +7,6 @@
 * **Projeto**
 	[Metodologia](metodologia/metodologia.md)
 
-
 * **Elicitação de Requisitos**
 
 	[Metodologia de Elicitação](requisitos/metodologia_elicitacao.md)
