@@ -18,9 +18,9 @@
 <p align="justify">&emsp;Desde sua disponibilização formal em 2004, BPMN tem sido amplamente utilizada em organizações do mundo inteiro. Atualmente há uma grande oferta de ferramentas de mapeamento de processos(gratuitas e licenciadas) que oferecem suporte à notação. Devido à sua grande aceitação, BPMN está ajudando a disseminar conceitos relacionados a processos de negócio e é considerada hoje uma característica chave de qualquer iniciativa BPM..</p>
 
 ### **BPMN - Processos Gerais**
-
-<iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-geral.csv" width="900" height="400"></iframe>
-
+<div style="display: flex; justify-content: center; align-items:center;">
+<iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-geral.svg" width="1500" height="1000"></iframe>
+</div>
 
 
 ## Referências
