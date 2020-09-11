@@ -8,7 +8,7 @@
 
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
-| 02/09/2020 | 1.0 | Elicitando Requisitos Esperados | Daniel Sousa ([@dansousamelo]((https://github.com/dansousamelo)))  e Luis Bruno ([@lbrunofidelis](https://github.com/lbrunofidelis)) |
+| 02/09/2020 | 1.0 | Elicitando Requisitos Esperados | Daniel Sousa ([@dansousamelo](https://github.com/dansousamelo))  e Luis Bruno ([@lbrunofidelis](https://github.com/lbrunofidelis)) |
 | 08/09/2020 | 1.1 | Revisão dos Requisitos | Lucas Medeiros ([@medeirosLucas](https://github.com/medeiroslucas)) e Tiago Miguel ([@tmcstiago](https://github.com/tmcstiago)) |
 | 02/09/2020 | 1.2 | Criação do tópico entrevistas | Daniel Sousa ([@dansousamelo]((https://github.com/dansousamelo)))  e Luis Bruno ([@lbrunofidelis](https://github.com/lbrunofidelis)) |
 | 08/09/2020 | 1.3 | dicionando entrevistas realizadas | Lucas Medeiros ([@medeirosLucas](https://github.com/medeiroslucas)) e Tiago Miguel ([@tmcstiago](https://github.com/tmcstiago)) |
