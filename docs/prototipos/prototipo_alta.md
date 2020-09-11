@@ -22,11 +22,11 @@ Para visualizar acesse:
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f1-1.png">
 </div>
-
+<p></p>
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f1-2.png">
 </div>
-
+<p></p>
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f1-3.png">
 </div>
@@ -40,11 +40,11 @@ Para visualizar acesse:
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f3-1.png">
 </div>
-
+<p></p>
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f3-2.png">
 </div>
-
+<p></p>
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/f3-3.png">
 </div>
