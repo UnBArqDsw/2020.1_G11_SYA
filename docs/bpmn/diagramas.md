@@ -22,6 +22,20 @@
 <iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-geral.svg" width="1500" height="1000"></iframe>
 </div>
 
+### **BPMN - Processo - Desenvolvimento da Ideia do Projeto**
+<div style="display: flex; justify-content: center; align-items:center;">
+<iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-ideia.svg" width="1500" height="1000"></iframe>
+</div>
+
+### **BPMN - Processo - Artefatos Inicias**
+<div style="display: flex; justify-content: center; align-items:center;">
+<iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-artefatos.svg" width="1500" height="1000"></iframe>
+</div>
+
+### **BPMN - Processo - Desenvolvimento do Produto de Software**
+<div style="display: flex; justify-content: center; align-items:center;">
+<iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-produto.svg" width="1800" height="800"></iframe>
+</div>
 
 ## Referências
  * <p align="justify">SERRANO,Milene. Notação BPMN, 2020. Material apresentado para Disciplina de Arquitetura de Desenho de Software do curso de Engenharia de Software da UnB, FGA. Acesso em: 08, Setembro e 2020.
