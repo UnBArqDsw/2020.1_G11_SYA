@@ -10,6 +10,7 @@
 | ---- | ------ | --------- | --------- |
 | 09/09/2020 | 1.0 | Criação do diagrama geral | Lucas Leite ([@lucasqmc](https://github.com/lucasqmc)) |
 | 10/09/2020 | 2.0 | Criação dos diagramas de criação dos artefatos, desenvolvimento do produto e desenvolvimento da ideia | Lucas Leite ([@lucasqmc](https://github.com/lucasqmc)) |
+12/09/2020 | 2.1 | Revisando documento | Luis Bruno [@lbrunofidelis](http://github.com/lbrunofidelis) |
 
 
 ## **Definição**
@@ -21,18 +22,22 @@
 ### **BPMN - Processos Gerais**
 
 [![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-geral.svg)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-geral.svg)
+<p align="center"><i>Clique na imagem para ampliar</i> 🔎 </p>
 
 ### **BPMN - Processo - Desenvolvimento da Ideia do Projeto**
 
 [![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-ideia.svg)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-ideia.svg)
+<p align="center"><i>Clique na imagem para ampliar</i> 🔎 </p>
 
 ### **BPMN - Processo - Elaboração dos Artefatos Inicias**
 
 [![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-artefatos.svg)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-artefatos.svg)
+<p align="center"><i>Clique na imagem para ampliar</i> 🔎 </p>
 
 ### **BPMN - Processo - Desenvolvimento do Produto de Software**
 
 [![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-produto.svg)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-produto.svg)
+<p align="center"><i>Clique na imagem para ampliar</i> 🔎 </p>
 
 ## Referências
  * <p align="justify">SERRANO,Milene. Notação BPMN, 2020. Material apresentado para Disciplina de Arquitetura de Desenho de Software do curso de Engenharia de Software da UnB, FGA. Acesso em: 08, Setembro e 2020.

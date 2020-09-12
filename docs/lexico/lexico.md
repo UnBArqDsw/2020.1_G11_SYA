@@ -5,7 +5,9 @@
 </div>
 
 
-Aqui estão listados os léxicos, sendo estes termos específicos do contexto do domínio da aplicação. Dito isso, algumas das definições a seguir diferem significativamente das definições para as mesmas palavras que poderiam ser encontradas em um dicionário, pois aqui estão definidas no contexto do aplicativo.
+<p align="justify">
+    Aqui estão listados os léxicos, sendo estes termos específicos do contexto do domínio da aplicação. Dito isso, algumas das definições a seguir diferem significativamente das definições para as mesmas palavras que poderiam ser encontradas em um dicionário, pois aqui estão definidas no contexto do aplicativo.
+</p>
 
 ## Histórico de Versões
 
@@ -19,7 +21,7 @@ Aqui estão listados os léxicos, sendo estes termos específicos do contexto do
     <tbody>
         <td>10/09/2020</td>
         <td>1.0</td>
-        <td>Criação do documento sobre Léxicos e subindo léxicos 1, 2 ,3 ,4 e 5</td>
+        <td>Criação do documento sobre Léxicos e subindo léxicos 1, 2, 3, 4 e 5</td>
         <td>
             <a href="https://github.com/pedroMiranda7410">Pedro Miranda</a>
         </td>
