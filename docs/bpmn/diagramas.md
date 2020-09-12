@@ -9,6 +9,7 @@
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
 | 09/09/2020 | 1.0 | Criação do diagrama geral | Lucas Leite ([@lucasqmc](https://github.com/lucasqmc)) |
+| 10/09/2020 | 2.0 | Criação dos diagramas de criação dos artefatos, desenvolvimento do produto e desenvolvimento da ideia | Lucas Leite ([@lucasqmc](https://github.com/lucasqmc)) |
 
 
 ## **Definição**
@@ -18,24 +19,20 @@
 <p align="justify">&emsp;Desde sua disponibilização formal em 2004, BPMN tem sido amplamente utilizada em organizações do mundo inteiro. Atualmente há uma grande oferta de ferramentas de mapeamento de processos(gratuitas e licenciadas) que oferecem suporte à notação. Devido à sua grande aceitação, BPMN está ajudando a disseminar conceitos relacionados a processos de negócio e é considerada hoje uma característica chave de qualquer iniciativa BPM..</p>
 
 ### **BPMN - Processos Gerais**
-<div style="display: flex; justify-content: center; align-items:center;">
-<iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-geral.svg" width="1500" height="800"></iframe>
-</div>
+
+[![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-geral.svg)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-geral.svg)
 
 ### **BPMN - Processo - Desenvolvimento da Ideia do Projeto**
-<div style="display: flex; justify-content: center; align-items:center;">
-<iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-ideia.svg" width="1500" height="600"></iframe>
-</div>
+
+[![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-ideia.svg)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-ideia.svg)
 
 ### **BPMN - Processo - Elaboração dos Artefatos Inicias**
-<div style="display: flex; justify-content: center; align-items:center;">
-<iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-artefatos.svg" width="1500" height="600"></iframe>
-</div>
+
+[![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-artefatos.svg)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-artefatos.svg)
 
 ### **BPMN - Processo - Desenvolvimento do Produto de Software**
-<div style="display: flex; justify-content: center; align-items:center;">
-<iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-produto.svg" width="1900" height="600"></iframe>
-</div>
+
+[![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-produto.svg)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-produto.svg)
 
 ## Referências
  * <p align="justify">SERRANO,Milene. Notação BPMN, 2020. Material apresentado para Disciplina de Arquitetura de Desenho de Software do curso de Engenharia de Software da UnB, FGA. Acesso em: 08, Setembro e 2020.
