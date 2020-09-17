@@ -1,7 +1,8 @@
 # **Análise de Sentimentos X Produtividade**
 
+<br>
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/brainstorm/brainstorm.png">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagrama_sentimentos/emotions.png">
 </div>
 <br>
 
@@ -16,7 +17,7 @@ Para poder realizar uma análise e acompanhamento dos membros durante o desenvol
 1. Qual seu sentimento hoje? (seguindo a tabela abaixo)
 
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagrama_sentimentos/tabela_cores.png">
+    <img style="height: 600px;" src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagrama_sentimentos/tabela_cores.png">
 </div>
 <br>
 
@@ -47,6 +48,14 @@ Para poder realizar uma análise e acompanhamento dos membros durante o desenvol
                 <a href="https://github.com/pedroMiranda7410">Pedro Miranda</a>
             </td>
         </tr>
+        <tr>
+            <td>17/09/2020</td>
+            <td>1.1</td>
+            <td>Ajustando tamanho da imagem, link para rsultados e imagem do título</td>
+            <td>
+                <a href="https://github.com/pedroMiranda7410">Pedro Miranda</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 <br>
@@ -54,7 +63,7 @@ Para poder realizar uma análise e acompanhamento dos membros durante o desenvol
 
 # Resultados
 
-<iframe id="#sheets_sentimentos" src="https://docs.google.com/spreadsheets/d/1_u7yGBO2UTx6Mv8pOjmDY3brmdTi4oUS7NUQYt_YoNI/edit?usp=sharing" style="height:600px; width: 100%" frameborder="0" allowfullscreen="true" e="" mozallowfullscreen="tru" webkitallowfullscreen="true">
+<iframe id="sheets_sentimentos" src="https://docs.google.com/spreadsheets/d/1_u7yGBO2UTx6Mv8pOjmDY3brmdTi4oUS7NUQYt_YoNI/edit?usp=sharing" style="height:600px; width: 100%" frameborder="0" allowfullscreen="true" e="" mozallowfullscreen="tru" webkitallowfullscreen="true">
 </iframe>
 
 # Referência
