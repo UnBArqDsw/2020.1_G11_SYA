@@ -20,17 +20,33 @@
 
 ### **BPMN - Processos Gerais**
 
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/geral.ogg" type="audio/ogg">
+</audio>
+
 [![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-geral.svg)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-geral.svg)
 
 ### **BPMN - Processo - Desenvolvimento da Ideia do Projeto**
+
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/ideia.ogg" type="audio/ogg">
+</audio>
 
 [![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-ideia.svg)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-ideia.svg)
 
 ### **BPMN - Processo - Elaboração dos Artefatos Inicias**
 
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/artefatos.ogg" type="audio/ogg">
+</audio>
+
 [![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-artefatos.svg)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-artefatos.svg)
 
 ### **BPMN - Processo - Desenvolvimento do Produto de Software**
+
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/desenvolvimento.ogg" type="audio/ogg">
+</audio>
 
 [![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-produto.svg)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagramas/bpmn-desenvolvimento-produto.svg)
 
