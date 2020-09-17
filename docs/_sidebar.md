@@ -7,6 +7,8 @@
 * **Projeto**
 	[Metodologia](metodologia/metodologia.md)
 
+	[Ata - Sprint 02 - 14/09/2020](metodologia/atas/ata_sprint02.md)
+
 * **Elicitação de Requisitos**
 
 	[Metodologia de Elicitação](requisitos/metodologia_elicitacao.md)
