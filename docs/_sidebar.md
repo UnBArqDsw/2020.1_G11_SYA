@@ -36,3 +36,7 @@
 * **Modelagem BPMN**
 
 	[Diagramas BPMN](bpmn/diagramas.md)
+
+* **Iniciativas Extras**
+
+	[Diagrama de Sentimentos](iniciativas_extras/diagrama_sentimento.md)
