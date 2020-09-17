@@ -4,7 +4,9 @@
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/glossario/glossario.png">
 </div>
 
-Um glossário nada mais é que um dicionário de palavras de sentido obscuro ou pouco conhecido. Então o intuito deste artefato é trazer clareza sobre alguns dos termos utilizados durante a estruturação do projeto e seus requisitos.
+<p align="justify">
+    Um glossário nada mais é que um dicionário de palavras de sentido obscuro ou pouco conhecido. Então o intuito deste artefato é trazer clareza sobre alguns dos termos utilizados durante a estruturação do projeto e seus requisitos.
+</p>
 
 ## Histórico de Versões
 
@@ -16,12 +18,22 @@ Um glossário nada mais é que um dicionário de palavras de sentido obscuro ou 
         <th>Autor(es)</th>
     </thead>
     <tbody>
-        <td>10/09/2020</td>
-        <td>1.0</td>
-        <td>Criação do documento Glossário e subindo Glossário Calendário</td>
-        <td>
-            <a href="https://github.com/pedroMiranda7410">Pedro Miranda</a>
-        </td>
+        <tr>
+            <td>10/09/2020</td>
+            <td>1.0</td>
+            <td>Criação do documento Glossário e subindo Glossário Calendário</td>
+            <td>
+                <a href="https://github.com/pedroMiranda7410" target="_blank">Pedro Miranda</a>
+            </td>
+        </tr>
+        <tr>
+            <td>12/09/2020</td>
+            <td>1.1</td>
+            <td>Formatando documento</td>
+            <td>
+                <a href="https://github.com/lbrunofidelis" target="_blank">Luis Bruno</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 <br>

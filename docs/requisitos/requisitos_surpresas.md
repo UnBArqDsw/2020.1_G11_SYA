@@ -8,9 +8,9 @@
 
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
-| 10/09/2020 | 1.0 | Subindo base do documento para wiki | Pedro Miranda ([@pedroMiranda7410]((https://github.com/pedroMiranda7410)))|
+| 10/09/2020 | 1.0 | Subindo base do documento para wiki | Pedro Miranda ([@pedroMiranda7410](https://github.com/pedroMiranda7410))|
 | 10/09/2020 | 1.2 | Realização atividade brainstorm| Todos do Grupo|
-| 11/09/2020 | 1.3 | Formatando documento| Daniel Sousa ([@dansousamelo]((https://github.com/dansousamelo)))|
+| 11/09/2020 | 1.3 | Formatando documento | Daniel Sousa ([@dansousamelo](https://github.com/dansousamelo))|
 
 ## Brainstorm
 <div style="display: flex; justify-content: center; align-items:center;">
