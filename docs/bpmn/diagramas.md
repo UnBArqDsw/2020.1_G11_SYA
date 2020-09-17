@@ -11,6 +11,7 @@
 | 09/09/2020 | 1.0 | Criação do diagrama geral | Lucas Leite ([@lucasqmc](https://github.com/lucasqmc)) |
 | 10/09/2020 | 2.0 | Criação dos diagramas de criação dos artefatos, desenvolvimento do produto e desenvolvimento da ideia | Lucas Leite ([@lucasqmc](https://github.com/lucasqmc)) |
 12/09/2020 | 2.1 | Revisando documento | Luis Bruno [@lbrunofidelis](http://github.com/lbrunofidelis) |
+| 16/09/2020 | 2.2 | Adicionando audios de explicação | Lucas Leite [@lucasqmc](http://github.com/lucasqmc) |
 
 
 ## **Definição**
