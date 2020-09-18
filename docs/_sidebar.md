@@ -7,6 +7,8 @@
 * **Projeto**
 	[Metodologia](metodologia/metodologia.md)
 
+	* [Burndown](burndown/burndown.md)
+
 	[Ata - Sprint 02 - 14/09/2020](metodologia/atas/ata_sprint02.md)
 
 * **Elicitação de Requisitos**
