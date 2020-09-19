@@ -1,4 +1,4 @@
-# **Análise de Sentimentos X Produtividade**
+# **Burndown**
 
 <br>
 <div style="display: flex; justify-content: center; align-items:center;">
@@ -22,10 +22,12 @@
         <tr>
             <td>18/09/2020</td>
             <td>1.0</td>
-            <td>Criando documento para wiki com link de último burndown gerado no iframe</td>
+            <td>Criando documento para wiki</td>
             <td>
-                <a href="https://github.com/pedroMiranda7410">Pedro Miranda</a>
-                <a href="https://github.com/lbrunofidelis">Luis Bruno</a>
+Pedro Miranda
+                (<a href="https://github.com/pedroMiranda7410">@pedroMiranda7410</a>) e
+Luis Bruno
+                (<a href="https://github.com/lbrunofidelis">@lbrunofidelis</a>)
             </td>
         </tr>
     </tbody>
@@ -33,14 +35,19 @@
 <br>
 <br>
 
-## Sprint 0
+<p align="justify">&emsp;
+O gráfico de burndown (que significa em tradução livre queimando para baixo) é formado por dois eixos: o eixo Y (vertical), que representa a demanda de trabalho a ser queimada em pontos, definidos no Planning da sprint; e o eixo X (horizontal), que representa o tempo – a quantidade de dias de trabalho para queimar a demanda.
+</p>
+
+
+## [Sprint 0](https://github.com/UnBArqDsw/2020.1_G11_SYA/milestone/1)
 
 <div style="height: 600px;display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/burndown/sprint_0.png">
 </div>
 <br>
 
-## Sprint 1
+## [Sprint1](https://github.com/UnBArqDsw/2020.1_G11_SYA/milestone/2)
 
 <div style="height: 600px;display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/burndown/sprint_1.png">
@@ -48,4 +55,5 @@
 <br>
 
 
-# Referência
+# Referências
+* GRÁFICOS de Burndown e Burnup: O que são, e quais as diferenças. [S. l.], 2020. Disponível em: https://artia.com/blog/graficos-de-burndown-e-burnup-o-que-sao-para-que-servem-e-quais-as-diferencas/. Acesso em: 18 set. 2020.
