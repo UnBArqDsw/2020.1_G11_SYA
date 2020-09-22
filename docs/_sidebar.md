@@ -39,6 +39,12 @@
 
 	[Diagramas BPMN](bpmn/diagramas.md)
 
+* **Sprints**
+  [Sprint 0](planning_review/sprint0.md)
+  [Sprint 1](planning_review/sprint1.md)
+  [Sprint 2](planning_review/sprint2.md)
+	[Sprint 3](planning_review/sprint3.md)
+
 * **Iniciativas Extras**
 
 	[Diagrama de Sentimentos](iniciativas_extras/diagrama_sentimento.md)
