@@ -1,15 +1,17 @@
 # Diagrama de Classes
 
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/classes.png">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/diagram.png">
 </div>
+
+<p align="justify">&emsp;Sem dúvida a orientação orientada a objetos vem sendo palco de grandes estudos e grandes pesquisas maspPorque é tão importante encontramos as classes para o desenvolvimento de um sistema? É simples, pois cada classe do diagrama representa uma tabela do banco de dados, por esse motivo é tão importante encontrarmos.</p>
 
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-09/09/2020 | [@dansousamelo](http://github.com/dansousamelo) e [@pedroMiranda7410](https://github.com/pedroMiranda7410)| 1.0 | Adicioanado diagrama de classes|
+23/09/2020 | [@dansousamelo](http://github.com/dansousamelo) e [@pedroMiranda7410](https://github.com/pedroMiranda7410)| 1.0 | Adicionando diagrama de classes|
  
-<p align="justify">&emsp;Sem dúvida a orientação orientada a objetos vem sendo palco de grandes estudos e grandes pesquisas maspPorque é tão importante encontramos as classes para o desenvolvimento de um sistema? É simples, pois cada classe do diagrama representa uma tabela do banco de dados, por esse motivo é tão importante encontrarmos. Abaixo encontra-se a representação em diagramas de classes da aplicação.</p>
+<p align="justify">&emsp;Abaixo encontra-se a representação em diagramas de classes da aplicação.</p>
 
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/umlClass.png">

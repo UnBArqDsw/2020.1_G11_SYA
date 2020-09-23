@@ -1,7 +1,7 @@
 # Estimativas
 
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/estimativas/cost2.svg">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/estimativas/cost2.png">
 </div>
 
 ## Histórico de Versões
