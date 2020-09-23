@@ -15,7 +15,7 @@
 
 ### Detalhes da Sprint
 
-* Período: 31/08/2020 à 07/09/2020
+* Período: 31/08/2020 a 07/09/2020
 * Pareamentos: 
   - Daniel Sousa e Luis Bruno
   - Pedro Miranda e Lucas Leite

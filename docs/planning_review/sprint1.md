@@ -15,7 +15,7 @@
 
 ### Detalhes da Sprint
 
-* Período: 07/09/2020 à 14/09/2020
+* Período: 07/09/2020 a 14/09/2020
 * Pareamentos: 
   - Daniel Sousa e Luis Bruno
   - Pedro Miranda e Lucas Leite
@@ -46,6 +46,10 @@
 ### Revisão
 <p align="justify">&emsp;
 	No fim da Sprint concluímos que entregamos mais do que esperávamos entregar, devido à grande quantidade de artefatos e documentos que faltavam e acumularam para a primeira entrega da matéria e também por uma falta de organização em geral. Foi uma Sprint onde todos contribuíram bastante e tivemos muitos resultados e que, por meio dela, entendemos muito bem quais ações devemos tomar daqui em diante.
+</p>
+
+<p align="justify">&emsp;
+  Nessa Sprint também houve a troca de tecnologia de documentação (do Mkdocs para o Docsify) devido às funcionalidades que agregam mais para a Wiki como planejamos, como a Sidebar mais flexível.
 </p>
 
 <a href="https://github.com/UnBArqDsw/2020.1_G11_SYA/milestone/2">
