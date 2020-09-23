@@ -39,7 +39,7 @@
 
 	[Diagramas BPMN](bpmn/diagramas.md)
 
-* **Sprints**
+* **Planning/Reviews**
   [Sprint 0](planning_review/sprint0.md)
   [Sprint 1](planning_review/sprint1.md)
   [Sprint 2](planning_review/sprint2.md)

@@ -36,7 +36,10 @@ Luis Bruno
 <br>
 
 <p align="justify">&emsp;
-O gráfico de burndown (que significa em tradução livre queimando para baixo) é formado por dois eixos: o eixo Y (vertical), que representa a demanda de trabalho a ser queimada em pontos, definidos no Planning da sprint; e o eixo X (horizontal), que representa o tempo – a quantidade de dias de trabalho para queimar a demanda.
+O gráfico de Burndown na metodologia Scrum mostra como está a produtividade da equipe em relação aos prazos determinados durante a fase de planejamento do projeto. A partir de dados sobre a produtividade é possível fazer ajustes no planejamento do projeto, por isso se torna fundamental a análise do Burndown.
+</p>
+<p align="justify">&emsp;
+O gráfico (que significa em tradução livre queimando para baixo) é formado por dois eixos: o eixo Y (vertical), que representa a demanda de trabalho a ser queimada em pontos, definidos no Planning da sprint; e o eixo X (horizontal), que representa o tempo – a quantidade de dias de trabalho para queimar a demanda.
 </p>
 
 
@@ -57,3 +60,5 @@ O gráfico de burndown (que significa em tradução livre queimando para baixo) 
 
 # Referências
 * GRÁFICOS de Burndown e Burnup: O que são, e quais as diferenças. [S. l.], 2020. Disponível em: https://artia.com/blog/graficos-de-burndown-e-burnup-o-que-sao-para-que-servem-e-quais-as-diferencas/. Acesso em: 18 set. 2020.
+
+* BURNDOWN e Burnup no Scrum: como avaliar o desempenho da sua equipe. [S. l.], 2019. Disponível em: https://flowup.me/blog/burndown-e-burnup/. Acesso em: 18 set. 2020.
