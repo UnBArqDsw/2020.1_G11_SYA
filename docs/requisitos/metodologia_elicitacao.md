@@ -10,7 +10,7 @@
 
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
-| 08/09/2020 | 1.0 | Adicionando metodologia | Daniel Sousa ([@dansousamelo]((https://github.com/dansousamelo)))  e Luis Bruno ([@lbrunofidelis](https://github.com/lbrunofidelis)) |
+| 08/09/2020 | 1.0 | Adicionando metodologia | Daniel Sousa ([@dansousamelo](https://github.com/dansousamelo))  e Luis Bruno ([@lbrunofidelis](https://github.com/lbrunofidelis)) |
 
 
 <p align="justify">&emsp;Na imagem abaixo podemos ver três categorias, categoria de requisitos surpresa, esperados e óbvios.</p>

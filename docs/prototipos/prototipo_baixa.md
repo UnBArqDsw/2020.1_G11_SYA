@@ -6,10 +6,10 @@
 
 <p align="justify">&emsp;Um protótipo de baixa fidelidade procura simular características da aplicação,  focando primeiramente nas funcionalidades sem se importar com estética.</p>
 
-## **Histórico de revisões**
-Data | Responsável | Versão | Alteração 
+## **Histórico de Versões**
+Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-09/09/2020 | [@dansousamelo](http://github.com/dansousamelo) | 1.0 | Finalizando telas.
+09/09/2020 | 1.0 | Finalizando telas | Daniel Sousa [@dansousamelo](http://github.com/dansousamelo) |
 
 ## **Home**
 

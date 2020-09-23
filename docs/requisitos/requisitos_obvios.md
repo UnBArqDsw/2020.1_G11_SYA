@@ -19,7 +19,7 @@
 
 <p align="justify">&emsp;No Distrito Federal houve um decreto realizado no dia 24/5/2020 que permite que estabelecimentos estipulem horários de abertura. Regra anterior limitava funcionamento entre 9h e 17h ou entre 11h e 19h.</p>
 
-### **Benchmarking**
+## **Benchmarking**
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQ1OqznbV-8BLRjaEZD8Ka_iuEuPwdaB_JLLl2SeedaxH-eiHkvO8p8myj2dlnhoat0cdaM6r4qrJe/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="900" height="400"></iframe>
 

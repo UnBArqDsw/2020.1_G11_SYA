@@ -6,10 +6,10 @@
 
 <p align="justify">&emsp;É comum, principalmente em projetos grandes, reunir os princípios e as diretrizes adotados em um documento intitulado guia de estilo. Trata-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final. Guias de estilo servem de ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. É importante que as decisões de design possam ser facilmente consultadas e reutilizadas nas discussões sobre extensões ou versões futuras do produto.</p>
 
-## **Histórico de revisões**
-Data | Responsável | Versão | Alteração 
+## **Histórico de Versões**
+Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-09/09/2020 | [@dansousamelo](http://github.com/dansousamelo) | 1.0 | Finalizando componentes.
+09/09/2020 | 1.0 | Finalizando componentes. | [@dansousamelo](http://github.com/dansousamelo)
 
 ## **Tipografia**
 

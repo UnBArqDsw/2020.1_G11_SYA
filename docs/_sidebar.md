@@ -7,6 +7,10 @@
 * **Projeto**
 	[Metodologia](metodologia/metodologia.md)
 
+	* [Burndown](burndown/burndown.md)
+
+	[Ata - Sprint 02 - 14/09/2020](metodologia/atas/ata_sprint02.md)
+
 * **Elicitação de Requisitos**
 
 	[Metodologia de Elicitação](requisitos/metodologia_elicitacao.md)
@@ -34,3 +38,13 @@
 * **Modelagem BPMN**
 
 	[Diagramas BPMN](bpmn/diagramas.md)
+
+* **Planning/Reviews**
+  [Sprint 0](planning_review/sprint0.md)
+  [Sprint 1](planning_review/sprint1.md)
+  [Sprint 2](planning_review/sprint2.md)
+	[Sprint 3](planning_review/sprint3.md)
+
+* **Iniciativas Extras**
+
+	[Diagrama de Sentimentos](iniciativas_extras/diagrama_sentimento.md)
