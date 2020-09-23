@@ -43,14 +43,14 @@ O gráfico (que significa em tradução livre queimando para baixo) é formado p
 </p>
 
 
-## [Sprint 0](https://github.com/UnBArqDsw/2020.1_G11_SYA/milestone/1)
+## Sprint 0
 
 <div style="height: 600px;display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/burndown/sprint_0.png">
 </div>
 <br>
 
-## [Sprint1](https://github.com/UnBArqDsw/2020.1_G11_SYA/milestone/2)
+## Sprint 1
 
 <div style="height: 600px;display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/burndown/sprint_1.png">
