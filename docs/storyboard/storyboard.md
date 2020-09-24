@@ -30,8 +30,6 @@
 </div>
 
 
-
-
 ## Referências
  * <p align="justify">SERRANO,Milene. Notação BPMN, 2020. Material apresentado para Disciplina de Arquitetura de Desenho de Software do curso de Engenharia de Software da UnB, FGA. Acesso em: 08, Setembro e 2020.
 </p>
