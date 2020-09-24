@@ -37,5 +37,7 @@
 
 
 ## Referências
- * <p align="justify">SERRANO,Milene. Notação BPMN, 2020. Material apresentado para Disciplina de Arquitetura de Desenho de Software do curso de Engenharia de Software da UnB, FGA. Acesso em: 08, Setembro e 2020.
+ * <p align="justify">COWAN,Alex. STORYBOARDING TUTORIAL. [S.l.], 3 Julho 2015. Disponível em: https://www.alexandercowan.com/storyboarding-tutorial/ . Acesso em: 20 de Setembro de 2020.
+</p>
+ * <p align="justify">SERRANO,Milene. Storyboards, 2020. Material apresentado para Disciplina de Arquitetura de Desenho de Software do curso de Engenharia de Software da UnB, FGA. Acesso em: 20 de Setembro de 2020.
 </p>
