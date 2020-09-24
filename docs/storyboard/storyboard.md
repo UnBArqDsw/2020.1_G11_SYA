@@ -25,8 +25,14 @@
   <img style="text-align: center;" src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/storyboard/storyboard-pt1.png" ></img>
 </div>
 <br>
+<p align="justify">&emsp;O prestador do serviço é informado da existencia do SYA, logo o prestador serviço disponibiliza seu link de cadastro para o cliente e começa a gerenciar seus agendamentos. O cliente por sua vez preenche seus dados, escolhe horários, funcionários e marca o agendamento.</p>
 <div style="display: flex; justify-content: center; align-items:center;">
   <img style="text-align: center;" src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/storyboard/storyboard-pt2.png" ></img>
+</div>
+<br>
+<p align="justify">&emsp;Ambos se encontram satisfeitos após utilizar os recursos do sistema. </p>
+<div style="display: flex; justify-content: center; align-items:center;">
+  <img style="text-align: center;" src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/storyboard/storyboard-pt3.png" ></img>
 </div>
 
 
