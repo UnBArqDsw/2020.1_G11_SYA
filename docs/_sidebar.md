@@ -19,6 +19,8 @@
 
 	[Léxico](lexico/lexico.md)
 
+	[StoryBoard](storyboard/storyboard.md)
+
 	[Glossário](glossario/glossario.md)
 
 	[Estimativas](estimativas/estimativas.md)
