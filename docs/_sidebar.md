@@ -42,18 +42,16 @@
 	[Diagrama de Banco de Dados](modelagem/diagrama_banco_de_dados.md)
 
 	[Diagrama de Pacotes](modelagem/diagrama_pacotes.md)
-
-	[Diagrama de Contexto](modelagem/diagrama_contexto.md)
 	
 	[Diagrama de Estados](modelagem/diagrama_estados.md)
-
-	[Diagrama de Implantação](modelagem/diagrama_implantacao.md)
 
 	[Diagrama de Classes](modelagem/diagrama_classes.md)
 
 	[Diagrama de Componentes](modelagem/diagrama_componentes.md)
 
 	[Diagrama de Sequência](modelagem/diagrama_sequencia.md)
+
+	[Diagrama de Atividades](modelagem/diagrama_atividades.md)
 
 	[Diagrama de Casos de Uso](modelagem/diagrama_caso_de_uso.md)
 
