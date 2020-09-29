@@ -48,7 +48,7 @@ Data | Versão | Descrição | Autor(es)
  * Um USER pode possuir vários CLIENT(s) e um CLIENT pertence a apenas um USER 
  * Cardinalidade **1 : N**.
 
-### **DER**
+## **Diagrama Entidade-Relacionamento (DE-R)**
 
 
 
@@ -56,7 +56,7 @@ Data | Versão | Descrição | Autor(es)
 <p align="center"><i>Clique na imagem para ampliar</i> 🔎 </p>
 
 
-### **Diagrama Lógico**
+## **Diagrama Lógico**
 
 
 [![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/Logico_SYA.png)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/Logico_SYA.png)
