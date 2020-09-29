@@ -24,7 +24,7 @@ Abaixo segue o diagrama com os casos de uso da aplicação, visando expor os cas
             <td>1.0</td>
             <td>Criando documento para wiki e subindo a C01 </td>
             <td>
-                Pedro Miranda [<a href="https://github.com/pedroMiranda7410">@pedroMiranda7410</a>] e Bruno Fidelis [<a href="https://github.com/lbrunofidelis">@lbrunofidelis</a>]
+                Pedro Miranda [<a href="https://github.com/pedroMiranda7410">@pedroMiranda7410</a>] e Luis Bruno [<a href="https://github.com/lbrunofidelis">@lbrunofidelis</a>]
             </td>
         </tr>
         <tr>
@@ -33,6 +33,14 @@ Abaixo segue o diagrama com os casos de uso da aplicação, visando expor os cas
             <td>Arrumando link da imagem do casos de uso C01</td>
             <td>
                 Pedro Miranda [<a href="https://github.com/pedroMiranda7410">@pedroMiranda7410</a>]
+            </td>
+        </tr>
+        <tr>
+            <td>29/09/2020</td>
+            <td>1.2</td>
+            <td>Adicionando zoom na imagem</td>
+            <td>
+                Luis Bruno [<a href="https://github.com/lbrunofidelis">@lbrunofidelis</a>]
             </td>
         </tr>
     </tbody>
@@ -49,12 +57,9 @@ Abaixo segue o diagrama com os casos de uso da aplicação, visando expor os cas
 
 ## C01
 
-<br>
-    <div style="display: flex; justify-content: center; align-items:center;">
-        <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagrama_casos_de_uso/casos_de_uso.png">
-    </div>
-<br>
+[![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagrama_casos_de_uso/casos_de_uso.png)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagrama_casos_de_uso/casos_de_uso.png)
+<p align="center"><i>Clique na imagem para ampliar</i> 🔎 </p>
 
 # Referência
 
-- SERRANO, Maurício; SERRANO, Milene. Requisitos - Vídeo Aula 02d. 2020. 18 slides. Material apresentado para a disciplina de Arquitetura e Desenho de Software da UnB, FGA.
+* SERRANO, Maurício; SERRANO, Milene. Requisitos - Vídeo Aula 02d. 2020. 18 slides. Material apresentado para a disciplina de Arquitetura e Desenho de Software da UnB, FGA.

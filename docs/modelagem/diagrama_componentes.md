@@ -9,7 +9,7 @@
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-28/09/2020 | [@dansousamelo](http://github.com/dansousamelo) e [@pedroMiranda7410](https://github.com/pedroMiranda7410)| 1.0 | Adicionando diagrama de componentes|
+28/09/2020 | 1.0 | Adicionando diagrama de componentes | Daniel Sousa ([@dansousamelo](http://github.com/dansousamelo)) e Pedro Miranda ([@pedroMiranda7410](https://github.com/pedroMiranda7410)) |
 
 <p align="justify">&emsp;Abaixo encontra-se o diagrama de componentes.</p>
 

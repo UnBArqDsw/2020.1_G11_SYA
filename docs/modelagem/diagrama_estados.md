@@ -11,7 +11,7 @@ Um diagrama de estados, por vezes conhecido como diagrama de máquina de estados
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-28/09/2020 | [@tmcstiago](http://github.com/tmcstiago)| 1.0 | Adicionando diagrama de estados |
+28/09/2020 | 1.0 | Adicionando diagrama de estados | Tiago Miguel ([@tmcstiago](http://github.com/tmcstiago)) |
 
 <p align="justify">&emsp;Abaixo encontra-se o diagrama de estados.</p>
 

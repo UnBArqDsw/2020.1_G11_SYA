@@ -11,7 +11,7 @@ Os diagramas de atividade são considerados diagramas de comportamento porque de
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-28/09/2020 | [@lbrunofidelis](http://github.com/lbrunofidelis)| 1.0 | Adicionando diagrama de atividade |
+28/09/2020 | 1.0 |  Adicionando diagrama de atividade | Luis Bruno ([@lbrunofidelis](http://github.com/lbrunofidelis)) |
 
 <p align="justify">&emsp;Abaixo encontra-se o diagrama de atividades.</p>
 
