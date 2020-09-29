@@ -10,9 +10,9 @@
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-09/09/2020 | [@dansousamelo](http://github.com/dansousamelo) | 1.0 | Finalizando vídeo da execução do protótipo|
-10/09/2020 | [@dansousamelo](http://github.com/dansousamelo) | 1.1 | Adicionando features|
-23/09/2020 | [@dansousamelo](http://github.com/dansousamelo) | 1.2 | Adicionando v2|
+09/09/2020 | 1.0 | Finalizando vídeo da execução do protótipo| [@dansousamelo](http://github.com/dansousamelo)|
+10/09/2020 | 1.1 | Adicionando features |[@dansousamelo](http://github.com/dansousamelo)|
+23/09/2020 |  1.2|  Adicionando v2 |  [@dansousamelo](http://github.com/dansousamelo)|
 
 <p align="center"><iframe src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/guia_de_estilo/certo.mp4" frameborder="0" width="600" height="390" allowfullscreen="true"e mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
