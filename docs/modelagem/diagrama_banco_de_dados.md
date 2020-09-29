@@ -50,17 +50,14 @@ Data | Versão | Descrição | Autor(es)
 
 ## **Diagrama Entidade-Relacionamento (DE-R)**
 
-
-
 [![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/DER_PYA.png)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/DER_PYA.png)
-<p align="center"><i>Clique na imagem para ampliar</i> 🔎 </p>
+<p align="center"><i>Clique na imagem para ampliar</i></p>
 
 
 ## **Diagrama Lógico**
 
-
 [![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/Logico_SYA.png)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/Logico_SYA.png)
-<p align="center"><i>Clique na imagem para ampliar</i> 🔎 </p>
+<p align="center"><i>Clique na imagem para ampliar</i></p>
 
 
 ## **Referências**
