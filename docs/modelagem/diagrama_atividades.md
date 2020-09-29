@@ -13,7 +13,7 @@ Data | Versão | Descrição | Autor(es)
 
 <p align="justify">&emsp;Abaixo encontra-se o diagrama de atividades.</p>
 
-[![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/atividade.png)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/atividade.jpg)
+[![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/atividade.jpg)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/atividade.jpg)
 <p align="center"><i>Clique na imagem para ampliar</i> 🔎 </p>
 
 ## **Referências**

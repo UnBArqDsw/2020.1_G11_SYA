@@ -9,7 +9,7 @@
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-23/09/2020 | [@dansousamelo](http://github.com/dansousamelo) | 1.0 | Adicionando manual da identidade visual|
+23/09/2020 | 1.0 | Adicionando manual da identidade visual  | [@dansousamelo](http://github.com/dansousamelo)|
 
  <p align="justify">&emsp;As recomendações, regras e especificações são:</p>
 
