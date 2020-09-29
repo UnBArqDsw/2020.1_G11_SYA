@@ -1,7 +1,7 @@
 # Descrição Arquitetural
 
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagrama_casos_de_uso/casos_de_uso.png">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/arch.png">
 </div>
 
 <p align="justify">&emsp;Este documento tem como objetivo principal especificar de forma clara e concisa tópicos referentes ao Documento de Arquitetura que será desenvolvido durante a disciplina.</p>
@@ -81,7 +81,7 @@
 ## **4. Visão de Casos de Uso**
 
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/arch.png">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagrama_casos_de_uso/casos_de_uso.png">
 </div>
 
 ## **5. Referências**
