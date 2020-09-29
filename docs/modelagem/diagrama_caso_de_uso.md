@@ -43,7 +43,7 @@ Abaixo segue o diagrama com os casos de uso da aplicação, visando expor os cas
 
 <br>
     <div style="display: flex; justify-content: center; align-items:center;">
-        <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/casos_de_uso/casos_de_uso.png">
+        <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/diagrama_casos_de_uso/casos_de_uso.png">
     </div>
 <br>
 
