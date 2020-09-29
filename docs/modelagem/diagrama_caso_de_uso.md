@@ -27,6 +27,14 @@ Abaixo segue o diagrama com os casos de uso da aplicação, visando expor os cas
                 Pedro Miranda [<a href="https://github.com/pedroMiranda7410">@pedroMiranda7410</a>] e Bruno Fidelis [<a href="https://github.com/lbrunofidelis">@lbrunofidelis</a>]
             </td>
         </tr>
+        <tr>
+            <td>28/09/2020</td>
+            <td>1.1</td>
+            <td>Arrumando link da imagem do casos de uso C01</td>
+            <td>
+                Pedro Miranda [<a href="https://github.com/pedroMiranda7410">@pedroMiranda7410</a>]
+            </td>
+        </tr>
     </tbody>
 </table>
 <br>
