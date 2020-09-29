@@ -40,9 +40,18 @@
 
 ## **2.2 Motivação Arquitetural**
 
+<p align="justify">&emsp;Por se tratar de um sistema com apenas duas interfaces (cliente, servidor) foi selecionado uma padrão arquitetural que não impusesse uma dificuldade em sua implementação sem o devido retorno, logo, escolhemos uma arquitetura simples mas que atende todas as necessidades do projeto.</p>
+
 ## **2.3 Abordagem Arquitetural**
 
+<p align="justify">&emsp;Arquitetura cliente-servidor com dois apenas dois serviços e um banco de dados.</p>
+
 ## **2.4 Diagrama de Contexto**
+
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/abordagem_arquitetural.jpeg">
+</div>
+
 
 ## **3. Restrições e Metas Arquiteturais**
 
@@ -65,7 +74,7 @@
 
 ## **4. Visão de Casos de Uso**
 
-## **4. Referências**
+## **5. Referências**
 
  * <p align="justify">AdonisJS vs ExpressJS: Quando utilizar cada um? . Disponível em: https://blog.rocketseat.com.br/adonis-vs-express/#:~:text=A%20melhor%20utiliza%C3%A7%C3%A3o%20do%20ExpressJS,conectarem%20formam%20a%20aplica%C3%A7%C3%A3o%20completa.. Acesso em: 27 de Setembro de 2020.
 </p>
@@ -75,3 +84,9 @@
 
  * <p align="justify">O que é o PostreSQL. Disponível em: http://pgdocptbr.sourceforge.net/pg82/intro-whatis.html .. Acesso em: 27 de Setembro de 2020.
 </p>
+
+## **6. Histórico de revisões**
+
+| Data | Autor | Versão | Alteração |   
+| ---- | ------ | ------ | ------ |
+| 28/09/2020 | Daniel Sousa ([@dansousamelo](https://github.com/dansousamelo)), Lucas Leite ([@lucasqmc](https://github.com/lucasqmc)), Lucas Medeiros ([@medeiroslucas](https://github.com/medeiroslucas)), Luis Bruno ([@lbrunofidelis](https://github.com/lbrunofidelis), Pedro Queiroz Miranda ([@pedroMiranda7410](https://github.com/pedroMiranda7410)), Tiago Miguel([@tmcstiago](https://github.com/tmcstiago)) | 1.0 | Criando documento de arquitetura |
