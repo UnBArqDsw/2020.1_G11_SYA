@@ -15,7 +15,7 @@
 
 ## **Definição**
 
-<p align="justify">&emsp;O storyboard é um guia visual que traz as principais cenas de um produto audiovisual de forma rápida e objetiva. Ou seja, uma espécie de histórias em quadrinhos que retrata, na íntegra, o conteúdo de um material audiovisual. A intenção dessa ferramenta é oferecer uma ‘prévia’ daquilo que será produzido, dando uma noção mais exata possível do produto final..</p>
+<p align="justify">&emsp;O storyboard é um guia visual que traz as principais cenas de um produto audiovisual de forma rápida e objetiva. Ou seja, uma espécie de histórias em quadrinhos que retrata, na íntegra, o conteúdo de um material audiovisual. A intenção dessa ferramenta é oferecer uma ‘prévia’ daquilo que será produzido, dando uma noção mais exata possível do produto final.</p>
 
 
 ### **Story Board v1**
