@@ -39,6 +39,8 @@
 * **Modelagem**
 	[Descrição Arquitetural](modelagem/descricao_arquitetural.md)
 
+	[Documento de Visão](modelagem/documento_visao.md)
+
 	[Diagrama de Banco de Dados](modelagem/diagrama_banco_de_dados.md)
 
 	[Diagrama de Pacotes](modelagem/diagrama_pacotes.md)
