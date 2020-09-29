@@ -10,7 +10,7 @@
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-09/09/2020 | 1.0 | Finalizando telas | Daniel Sousa [@dansousamelo](http://github.com/dansousamelo) |
+09/09/2020 | 1.0 | Finalizando telas | Daniel Sousa ([@dansousamelo](http://github.com/dansousamelo)) |
 
 ## **Home**
 

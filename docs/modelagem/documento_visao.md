@@ -7,7 +7,7 @@
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-25/09/2020 | [@dansousamelo](http://github.com/dansousamelo),[@pedroMiranda7410](https://github.com/pedroMiranda7410), [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.0 | Criação do documento|
+25/09/2020 | 1.0 | Criação do documento | Daniel Sousa ([@dansousamelo](http://github.com/dansousamelo)), Pedro Miranda ([@pedroMiranda7410](https://github.com/pedroMiranda7410)), Luis Bruno ([@lbrunofidelis](https://github.com/lbrunofidelis)) |
 
 <p align="justify">&emsp;O documento de visão visa capturar restrições de design e requisitos de alto nível para que o cliente possa compreender o sistema que será desenvolvido. Seu objetivo é fornecer uma visão ampla do produto que se pretende desenvolver, sem se aprofundar em detalhes.</p>
 
