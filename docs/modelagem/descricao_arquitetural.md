@@ -46,6 +46,23 @@
 
 ## **3. Restrições e Metas Arquiteturais**
 
+### Metas
+
+| Meta | Descrição |  
+| ---- | ------ | 
+| Escalabilidade | A aplicação deve ser escalável de maneira viável |
+| Segurança | A aplicação deve prover segurança aos dados sensiveis dos usuários |
+
+### Restrições
+
+| Meta | Descrição |  
+| ---- | ------ | 
+| Público | A aplicação terá seu foco no púlico brasileiro |
+| Linguagem | A aplicação será desenvolvida em português do Brasil |
+| Equipe | A equipe conta com somente 6 integrantes |
+| Prazo | A aplicação tem o prazo de um semestre letivo para ser desenvolvida |
+| Conectividade | A aplicação necessita de conexão com a internet para ser utilizada |
+
 ## **4. Visão de Casos de Uso**
 
 ## **4. Referências**
