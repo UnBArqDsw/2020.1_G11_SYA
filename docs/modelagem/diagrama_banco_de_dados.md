@@ -9,7 +9,7 @@
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-23/09/2020 | [@lucasqmc](http://github.com/lucasqmc)| 1.0 | Adicionando diagrama de banco de dados|
+25/09/2020 | [@lucasqmc](http://github.com/lucasqmc)| 1.0 | Adicionando diagrama de banco de dados|
  
 <p align="justify">&emsp;Abaixo encontra-se a representação em diagramas de banco de dados da aplicação.</p>
 
@@ -48,4 +48,4 @@ Data | Versão | Descrição | Autor(es)
  * Cardinalidade **1 : N**.
 
 ## **Referências**
- * <p align="justify">REFERENCIA AQUYI</p>
+ * <p align="justify">Introdução ao Modelo de Dados e seus Níveis de Abstração. Disponível em: http://spaceprogrammer.com/bd/introducao-ao-modelo-de-dados-e-seus-niveis-de-abstracao/. Acesso: 25 set. 2020.</p>
