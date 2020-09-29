@@ -10,6 +10,7 @@
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
 25/09/2020 | [@lucasqmc](http://github.com/lucasqmc)| 1.0 | Adicionando diagrama de banco de dados|
+26/09/2020 | [@medeiroslucas](http://github.com/medeiroslucas)| 1.1 | Adicionar DER e Diagrama lógico |
  
 <p align="justify">&emsp;Abaixo encontra-se a representação em diagramas de banco de dados da aplicação.</p>
 
@@ -46,6 +47,19 @@ Data | Versão | Descrição | Autor(es)
 * USER - has - CLIENT
  * Um USER pode possuir vários CLIENT(s) e um CLIENT pertence a apenas um USER 
  * Cardinalidade **1 : N**.
+
+### **DER**
+
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/DER_PYA.png">
+</div>
+
+### **Diagrama Lógico**
+
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/DER_PYA.png">
+</div>
+
 
 ## **Referências**
  * <p align="justify">Introdução ao Modelo de Dados e seus Níveis de Abstração. Disponível em: http://spaceprogrammer.com/bd/introducao-ao-modelo-de-dados-e-seus-niveis-de-abstracao/. Acesso: 25 set. 2020.</p>
