@@ -6,6 +6,12 @@
 
 <p align="justify">&emsp;Este documento tem como objetivo principal especificar de forma clara e concisa tópicos referentes ao Documento de Arquitetura que será desenvolvido durante a disciplina.</p>
 
+## **Histórico de versões**
+
+| Data | Autor | Versão | Alteração |   
+| ---- | ------ | ------ | ------ |
+| 28/09/2020 | Daniel Sousa ([@dansousamelo](https://github.com/dansousamelo)), Lucas Leite ([@lucasqmc](https://github.com/lucasqmc)), Lucas Medeiros ([@medeiroslucas](https://github.com/medeiroslucas)), Luis Bruno ([@lbrunofidelis](https://github.com/lbrunofidelis), Pedro Queiroz Miranda ([@pedroMiranda7410](https://github.com/pedroMiranda7410)), Tiago Miguel([@tmcstiago](https://github.com/tmcstiago)) | 1.0 | Criando documento de arquitetura |
+
 ## **1. Introdução**
 
 ## **1.1 Finalidade**
@@ -85,8 +91,4 @@
  * <p align="justify">O que é o PostreSQL. Disponível em: http://pgdocptbr.sourceforge.net/pg82/intro-whatis.html .. Acesso em: 27 de Setembro de 2020.
 </p>
 
-## **6. Histórico de revisões**
 
-| Data | Autor | Versão | Alteração |   
-| ---- | ------ | ------ | ------ |
-| 28/09/2020 | Daniel Sousa ([@dansousamelo](https://github.com/dansousamelo)), Lucas Leite ([@lucasqmc](https://github.com/lucasqmc)), Lucas Medeiros ([@medeiroslucas](https://github.com/medeiroslucas)), Luis Bruno ([@lbrunofidelis](https://github.com/lbrunofidelis), Pedro Queiroz Miranda ([@pedroMiranda7410](https://github.com/pedroMiranda7410)), Tiago Miguel([@tmcstiago](https://github.com/tmcstiago)) | 1.0 | Criando documento de arquitetura |
