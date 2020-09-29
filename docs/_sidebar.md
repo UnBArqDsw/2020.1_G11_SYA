@@ -22,6 +22,8 @@
 
 	[Estimativas](estimativas/estimativas.md)
 
+	[Causa e Efeito](causa_efeito/causa_efeito.md)
+
 * **Protótipos e Identidade Visual**
 
 	[Protótipo de Baixa Fidelidade](prototipos/prototipo_baixa.md)
@@ -57,6 +59,13 @@
 
 	[Diagrama de Casos de Uso](modelagem/diagrama_caso_de_uso.md)
 
+	[Backlog](Backlog/Backlog.md)
+
+	[Priorização](Backlog/priorizacao.md)
+
+* **Pendências Ajustadas**
+	[Primeira Entrega](pendencia/primeira.md)
+
 * **Projeto**
 	[Metodologia](metodologia/metodologia.md)
 
@@ -64,6 +73,8 @@
 
 * **Reuniões**
 	[Ata - Sprint 02 - 14/09/2020](metodologia/atas/ata_sprint02.md)
+
+
 	
 * **Planning/Reviews**
   [Sprint 0](planning_review/sprint0.md)

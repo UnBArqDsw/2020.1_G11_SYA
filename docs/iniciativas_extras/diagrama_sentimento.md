@@ -45,7 +45,8 @@ Para poder realizar uma análise e acompanhamento dos membros durante o desenvol
             <td>1.0</td>
             <td>Criando documento para wiki, excel e adicionando os valores de sentimento de cada integrante</td>
             <td>
-                <a href="https://github.com/pedroMiranda7410">Pedro Miranda</a>
+                Pedro Miranda [<a href="https://github.com/pedroMiranda7410">@pedroMiranda7410</a>]
+                Luis Bruno [<a href="https://github.com/lbrunofidelis">@lbrunofidelis</a>]
             </td>
         </tr>
         <tr>
