@@ -44,14 +44,7 @@
 
 ## **2.3 Abordagem Arquitetural**
 
-<p align="justify">&emsp;Arquitetura cliente-servidor com dois apenas dois serviços e um banco de dados.</p>
-
 ## **2.4 Diagrama de Contexto**
-
-<div style="display: flex; justify-content: center; align-items:center;">
-    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/abordagem_arquitetural.jpeg">
-</div>
-
 
 ## **3. Restrições e Metas Arquiteturais**
 
