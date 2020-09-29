@@ -13,7 +13,7 @@ Data | Versão | Descrição | Autor(es)
 ---- | ----------- | ------ | ---------
 23/09/2020 | 1.0 | Adicionando diagrama de sequência | [@lbrunofidelis](http://github.com/lbrunofidelis), [@tmcstiago](https://github.com/tmcstiago) e  [@medeiroslucas](http://github.com/medeiroslucas) |
  
-<p align="justify">&emsp;Abaixo encontra-se a representação em diagramas de atividades da aplicação.</p>
+<p align="justify">&emsp;Abaixo encontra-se a representação em diagrama de sequência da aplicação.</p>
 
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/sequencia.png">
