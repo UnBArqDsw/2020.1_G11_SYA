@@ -57,6 +57,8 @@
 
 	[Diagrama de Casos de Uso](modelagem/diagrama_caso_de_uso.md)
 
+[Backlog](Backlog/Backlog.md)
+
 * **Projeto**
 	[Metodologia](metodologia/metodologia.md)
 
@@ -64,6 +66,8 @@
 
 * **Reuniões**
 	[Ata - Sprint 02 - 14/09/2020](metodologia/atas/ata_sprint02.md)
+
+
 	
 * **Planning/Reviews**
   [Sprint 0](planning_review/sprint0.md)
