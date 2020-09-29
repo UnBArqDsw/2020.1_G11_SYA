@@ -22,8 +22,6 @@
 
 	[Estimativas](estimativas/estimativas.md)
 
-	[Causa e Efeito](causa_efeito/causa_efeito.md)
-
 * **Protótipos e Identidade Visual**
 
 	[Protótipo de Baixa Fidelidade](prototipos/prototipo_baixa.md)
@@ -59,12 +57,9 @@
 
 	[Diagrama de Casos de Uso](modelagem/diagrama_caso_de_uso.md)
 
-	[Backlog](Backlog/Backlog.md)
+[Backlog](Backlog/Backlog.md)
+[Priorização](Backlog/priorizacao.md)
 
-	[Priorização](Backlog/priorizacao.md)
-
-* **Pendências Ajustadas**
-	[Primeira Entrega](pendencia/primeira.md)
 
 * **Projeto**
 	[Metodologia](metodologia/metodologia.md)
@@ -83,5 +78,5 @@
 	[Sprint 3](planning_review/sprint3.md)
 
 * **Iniciativas Extras**
-
+	[Primeira Entrega - Pendências Ajustadas](pendencia/primeira.md)
 	[Diagrama de Sentimentos](iniciativas_extras/diagrama_sentimento.md)
