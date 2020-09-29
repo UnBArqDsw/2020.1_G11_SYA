@@ -9,7 +9,7 @@
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-28/09/2020 | 1.0 | Adicionando pendências resolvidas | [@dansousamelo](http://github.com/dansousamelo)|
+28/09/2020 | 1.0 | Adicionando pendências resolvidas | Daniel Sousa ([@dansousamelo](http://github.com/dansousamelo)) |
 
 <p align="justify">&emsp;Abaixo temos o id da pendência, a descrição.</p>
 

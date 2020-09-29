@@ -9,7 +9,7 @@
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-23/09/2020 | 1.0 | Adicionando diagrama de classes | [@dansousamelo](http://github.com/dansousamelo) e [@pedroMiranda7410](https://github.com/pedroMiranda7410)|
+23/09/2020 | 1.0 | Adicionando diagrama de classes | Daniel Sousa ([@dansousamelo](http://github.com/dansousamelo)) e Pedro Miranda ([@pedroMiranda7410](https://github.com/pedroMiranda7410)) |
  
 <p align="justify">&emsp;Abaixo encontra-se a representação em diagramas de classes da aplicação.</p>
 

@@ -15,7 +15,7 @@
 ## Histórico de Versões
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-10/09/2020 | 1.0 | Adicionando Definição de Projeto | [@dansousamelo](http://github.com/dansousamelo)
+10/09/2020 | 1.0 | Adicionando Definição de Projeto | Daniel Sousa ([@dansousamelo](http://github.com/dansousamelo))
 
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/design_sprint/des.png">

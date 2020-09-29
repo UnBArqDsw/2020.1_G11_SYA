@@ -9,7 +9,7 @@
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-23/09/2020 | [@dansousamelo](http://github.com/dansousamelo) e [@pedroMiranda7410](https://github.com/pedroMiranda7410)| 1.0 | Adicionando diagrama de pacotes|
+23/09/2020 | 1.0 | Adicionando diagrama de pacotes | Daniel Sousa ([@dansousamelo](http://github.com/dansousamelo)) e Pedro Miranda ([@pedroMiranda7410](https://github.com/pedroMiranda7410)) |
  
 # Front-end
 <p align="justify">&emsp;O front-end será construído com o framework ReactJS em typescript e javascript.</p>

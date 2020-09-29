@@ -4,12 +4,14 @@
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/diagram.png">
 </div>
 
-<p align="justify">&emsp;O diagrama a seguir descreve os componentes e comunicação entre diferentes componentes no Frontend.</p>
+<p align="justify">&emsp;
+Os diagramas de atividade são considerados diagramas de comportamento porque descrevem o que é necessário acontecer no sistema sendo modelado, também ajudam a unir as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o mesmo processo e comportamento.
+</p>
 
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-28/09/2020 | [@lbrunofidelis](http://github.com/lbrunofidelis)| 1.0 | Adicionando diagrama de atividade|
+28/09/2020 | 1.0 |  Adicionando diagrama de atividade | Luis Bruno ([@lbrunofidelis](http://github.com/lbrunofidelis)) |
 
 <p align="justify">&emsp;Abaixo encontra-se o diagrama de atividades.</p>
 
@@ -17,6 +19,4 @@ Data | Versão | Descrição | Autor(es)
 <p align="center"><i>Clique na imagem para ampliar</i> 🔎 </p>
 
 ## **Referências**
- * <p align="justify">ENTENDENDO o Diagrama de Componentes | #11. [S. l.: s. n.], 2017. Disponível em: https://www.youtube.com/watch?v=2VUPhYY_YLE&t=776s&ab_channel=EstudoNaWeb. Acesso em: 26 set. 2020.</p>
-
-atividade
+ * <p align="justify">O que é diagrama de atividades UML?, Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-atividades-uml, Acesso em 28/09/2020</p>

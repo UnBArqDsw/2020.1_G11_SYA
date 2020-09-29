@@ -9,8 +9,8 @@
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-25/09/2020 | [@lucasqmc](http://github.com/lucasqmc)| 1.0 | Adicionando diagrama de banco de dados|
-26/09/2020 | [@medeiroslucas](http://github.com/medeiroslucas)| 1.1 | Adicionar DER e Diagrama lógico |
+25/09/2020 | 1.0 | Adicionando diagrama de banco de dados| Lucas Leite ([@lucasqmc](http://github.com/lucasqmc)) |
+26/09/2020 | 1.1 | Adicionar DER e Diagrama lógico | Lucas Medeiros ([@medeiroslucas](http://github.com/medeiroslucas)) |
  
 <p align="justify">&emsp;Abaixo encontra-se a representação em diagramas de banco de dados da aplicação.</p>
 
