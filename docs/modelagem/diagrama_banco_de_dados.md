@@ -50,15 +50,20 @@ Data | Versão | Descrição | Autor(es)
 
 ### **DER**
 
-<div style="display: flex; justify-content: center; align-items:center;">
-    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/DER_PYA.png">
-</div>
+
+
+[![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/DER_PYA.png)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/DER_PYA.png)
+<p align="center"><i>Clique na imagem para ampliar</i> 🔎 </p>
+
 
 ### **Diagrama Lógico**
 
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/Logico_SYA.png">
 </div>
+
+[![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/Logico_SYA.png)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/Logico_SYA.png)
+<p align="center"><i>Clique na imagem para ampliar</i> 🔎 </p>
 
 
 ## **Referências**
