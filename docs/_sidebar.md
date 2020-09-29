@@ -58,6 +58,10 @@
 	[Diagrama de Casos de Uso](modelagem/diagrama_caso_de_uso.md)
 
 [Backlog](Backlog/Backlog.md)
+[Priorização](Backlog/priorizacao.md)
+
+* **Pendências Ajustadas**
+	[Primeira Entrega](pendencia/primeira.md)
 
 * **Projeto**
 	[Metodologia](metodologia/metodologia.md)
