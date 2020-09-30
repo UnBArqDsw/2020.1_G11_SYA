@@ -11,7 +11,7 @@ O diagrama de sequência é uma solução dinâmica de modelagem em UML bastante
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-23/09/2020 | 1.0 | Adicionando diagrama de sequência | [@lbrunofidelis](http://github.com/lbrunofidelis), [@tmcstiago](https://github.com/tmcstiago) e  [@medeiroslucas](http://github.com/medeiroslucas) |
+23/09/2020 | 1.0 | Adicionando diagrama de sequência |Luis Bruno ([@lbrunofidelis](http://github.com/lbrunofidelis)), Tiago Miguel ([@tmcstiago](https://github.com/tmcstiago)) e  Lucas Medeiros ([@medeiroslucas](http://github.com/medeiroslucas)) |
  
 <p align="justify">&emsp;Abaixo encontra-se a representação em diagrama de sequência da aplicação.</p>
 

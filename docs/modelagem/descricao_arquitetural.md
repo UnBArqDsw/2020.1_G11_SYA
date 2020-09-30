@@ -26,21 +26,21 @@
 
 ## **2.1 Tecnologias**
 
-## **2.1.1 Front End**
+### **2.1.1 Front End**
 
-### ReactJS
+#### ReactJS
 
 <p align="justify">&emsp;Por definição React é uma biblioteca para criar interfaces. Resolve toda aquele amontoado de código com jQuery que tínhamos para manipular o DOM. Podemos criar coisas performáticas e reutilizáveis de verdade.</p>
 
-## **2.1.2 Back End**
+### **2.1.2 Back End**
 
-### Express
+#### Express
 
 <p align="justify">&emsp;O ExpressJS é um framework para aplicações web em Node.js que resolve um leque isolado de problemas comuns em todas aplicações como gerenciamento de rotas, requisição, resposta e views.</p>
 
-## **2.1.3 Banco de dados**
+### **2.1.3 Banco de dados**
 
-### PostgreSQL
+#### PostgreSQL
 
 <p align="justify">&emsp;O PostgreSQL é um sistema de gerenciamento de banco de dados objeto-relacional baseado no POSTGRES Versão 4.2 desenvolvido pelo Departamento de Ciência da Computação da Universidade da Califórnia em Berkeley. Suporta grande parte do padrão SQL e oferece muitas funcionalidades modernas, como: comandos complexos, chaves estrangeiras, gatilhos, visões, integridade transacional e controle de simultaneidade multiversão.</p>
 

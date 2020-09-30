@@ -80,5 +80,3 @@ Um número considerado de issues foram concluídas, porém as de maiores pontua�
 * Equipe envolvida com outros projetos, ocasionando falta de foco
 * Daily não foi feita diariamente por todos os integrantes
 
-
-
