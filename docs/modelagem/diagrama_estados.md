@@ -8,6 +8,10 @@
 Um diagrama de estados, por vezes conhecido como diagrama de máquina de estados, é um tipo de diagrama comportamental na Linguagem de modelagem unificada (UML) que mostra transições entre vários objetos.
 </p>
 
+<p align="justify">&emsp;
+Os diagramas de estados retratam principalmente estados e transições. Estados são representados por retângulos com cantos arredondados e rotulados com o nome do estado. As transições são marcadas com setas que fluem de um estado para outro, mostrando como os estados mudam.
+</p>
+
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------

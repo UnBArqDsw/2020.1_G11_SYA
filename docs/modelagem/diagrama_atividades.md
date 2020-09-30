@@ -8,6 +8,10 @@
 Os diagramas de atividade são considerados diagramas de comportamento porque descrevem o que é necessário acontecer no sistema sendo modelado, também ajudam a unir as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o mesmo processo e comportamento.
 </p>
 
+<p align="justify">&emsp;
+Os diagramas de atividade ajudam a unir as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o mesmo processo e comportamento.
+</p>
+
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
