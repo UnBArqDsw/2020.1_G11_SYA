@@ -66,6 +66,8 @@
 
 	[Burndown](burndown/burndown.md)
 
+	[Políticas e Guia de Contribuição](git/politicas_git.md)
+
 * **Reuniões**
 	[Ata - Sprint 02 - 14/09/2020](metodologia/atas/ata_sprint02.md)
 
