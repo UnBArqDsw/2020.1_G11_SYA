@@ -45,7 +45,7 @@
 
 ### Revisão
 <p align="justify">&emsp;
-  Apesar de tardio (como pode ser observado no burndown), o objetivo da Sprint foi concluído. A ideia do projeto ainda é abstrata e tem muito a evoluir, mas toda a equipe se sentiu animada para o desenvolvimento deste projeto.
+  O objetivo da Sprint foi concluído, apesar da ideia do projeto ainda ser abstrata e ter muito a evoluir, toda a equipe se sentiu animada para o desenvolvimento deste projeto.
 </p>
 <a href="https://github.com/UnBArqDsw/2020.1_G11_SYA/milestone/1">
   Backlog da Sprint
