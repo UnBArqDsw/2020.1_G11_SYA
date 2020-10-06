@@ -30,6 +30,15 @@ Luis Bruno
                 (<a href="https://github.com/lbrunofidelis">@lbrunofidelis</a>)
             </td>
         </tr>
+        <tr>
+            <td>05/10/2020</td>
+            <td>1.0</td>
+            <td>Adicionando print do Burndown das sprints 2, 3 e 4 </td>
+            <td>
+Pedro Miranda
+                (<a href="https://github.com/pedroMiranda7410">@pedroMiranda7410</a>)
+            </td>
+        </tr>
     </tbody>
 </table>
 <br>
@@ -56,6 +65,28 @@ O gráfico (que significa em tradução livre queimando para baixo) é formado p
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/burndown/sprint_1.png">
 </div>
 <br>
+
+## Sprint 2
+
+<div style="height: 600px;display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/burndown/sprint_2.png">
+</div>
+<br>
+
+## Sprint 3
+
+<div style="height: 600px;display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/burndown/sprint_3.png">
+</div>
+<br>
+
+## Sprint 4
+
+<div style="height: 600px;display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/burndown/sprint_4.png">
+</div>
+<br>
+
 
 
 # Referências
