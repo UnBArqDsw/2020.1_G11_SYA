@@ -17,7 +17,7 @@ O planejamento da Sprint 4 foi um pouco diferenciado, uma vez que a equipe optou
 ### Detalhes da Sprint
 
 * Período: 28/09/2020 a 05/09/2020
-* Pareamentos: 
+* Trios: 
   - Daniel Sousa, Lucas Medeiros e Pedro Miranda
   - Lucas Leite, Tiago Miguel e Luis Bruno
 
