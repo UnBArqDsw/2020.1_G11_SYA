@@ -66,18 +66,21 @@
 
 	[Burndown](burndown/burndown.md)
 
+	[Roadmap](roadmap/roadmap.md)
+
 	[Políticas e Guia de Contribuição](git/politicas_git.md)
 
 * **Reuniões**
 	[Ata - Sprint 02 - 14/09/2020](metodologia/atas/ata_sprint02.md)
-
 
 	
 * **Planning/Reviews**
   [Sprint 0](planning_review/sprint0.md)
   [Sprint 1](planning_review/sprint1.md)
   [Sprint 2](planning_review/sprint2.md)
-	[Sprint 3](planning_review/sprint3.md)
+  [Sprint 3](planning_review/sprint3.md)
+  [Sprint 4](planning_review/sprint4.md)
+  [Sprint 5](planning_review/sprint5.md)
 
 * **Iniciativas Extras**
 	[Primeira Entrega - Pendências Ajustadas](pendencia/primeira.md)
