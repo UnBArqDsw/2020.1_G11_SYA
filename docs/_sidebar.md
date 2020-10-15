@@ -60,6 +60,16 @@
 [Backlog](Backlog/Backlog.md)
 [Priorização](Backlog/priorizacao.md)
 
+* **Design Patterns**
+
+	* **GoF's**
+		[Criacionais](gofs/criacionais.md)
+
+		[Estruturais](gofs/estruturais.md)
+
+		[Comportamentais](gofs/comportamentais.md)
+
+
 
 * **Projeto**
 	[Metodologia](metodologia/metodologia.md)
