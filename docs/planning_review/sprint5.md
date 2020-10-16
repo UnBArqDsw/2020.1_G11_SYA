@@ -33,3 +33,30 @@ Nesta sprint foi planejado entregar apenas 10 pontos nas histórias de usuários
 |  US26 - Eu, como prestador de serviços, desejo editar minha conta, para atualizar meus dados no sistema. (Back-end) | Lucas Leite, Lucas Medeiros e Pedro Miranda |    5   |               |    2   |
 
 **Total:** 10 pontos
+
+## Review
+
+### Revisão
+<p align="justify">&emsp;
+Com nenhuma pontuação entregue nesta sprint, a equipe decidiu que os Scrums devem ser mais rígidos e a equipe deve ser mais integrada com as atividades relacionadas à código e implementação de histórias de usuário.
+</p>
+
+<a href="https://github.com/UnBArqDsw/2020.1_G11_SYA/milestone/6">
+  Backlog da Sprint
+</a><br/>
+
+### Fechamento
+
+|                                                        Issue                                                        | Status da Issue | Pontuação |
+|:-------------------------------------------------------------------------------------------------------------------:|:---------------:|:---------:|
+| US20 - Eu, como prestador de serviços, desejo editar minha conta, para atualizar meus dados no sistema. (Front-end) |  Não concluída  |     5     |
+|  US26 - Eu, como prestador de serviços, desejo editar minha conta, para atualizar meus dados no sistema. (Back-end) |  Não concluída  |     5     |
+
+**Total:** 0/10 pontos
+
+### Pontos Negativos
+* Falta dos integrantes nos reviews/plannings
+* Nenhuma pontuação entregue
+* Daily não está sendo preenchida por todos os membros
+* Não há pontos positivos
+
