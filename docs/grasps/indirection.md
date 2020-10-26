@@ -19,7 +19,7 @@ Data | Versão | Descrição | Autor(es)
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/grasps/indirection1.png">
 </div>
 
-<p align="justify">&emsp;No exemplo, as classes EmployeeRepository e UserRepository são responsáveis por estabelecer uma comunicação entre os objetos de dominio e o banco de dados, procura-se diminuir o acoplamento entre as camadas de domínio e de serviços.</p>
+<p align="justify">&emsp;No exemplo, as classes EmployeeRepository e UserRepository são responsáveis por estabelecer uma comunicação entre os objetos de dominio e o banco de dados, procura-se diminuir o acoplamento entre as camadas de domínio e de serviços. </p>
 
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/grasps/indirection2.png">
