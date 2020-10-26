@@ -32,7 +32,9 @@ classe permaneça alta. </p>
 <p align="justify">&emsp;A classe Employee tem de ser associada às interfaces do banco de dados relacional (IEmployeeRepository e ICreateEmployeeDTO)</p>
 
 
-
+## Referências
+ * <p align="justify"> SERRANO, Milene. Video aulas e slides de GRASP'S. Módulo Padrões de Projeto GRASP(s) Material Complementar  (Parte II), [S. l.], p. 18-22, 26 out. 2020.
+</p>
 
 
 
