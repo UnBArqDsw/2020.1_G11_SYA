@@ -68,6 +68,9 @@
 		[Estruturais](gofs/estruturais.md)
 
 		[Comportamentais](gofs/comportamentais.md)
+	* **GRASP's**
+		[Pure Fabrication](grasps/pure_fabrication.md)
+
 
 
 
