@@ -71,7 +71,10 @@
 	* **GRASP's**
 		[Pure Fabrication](grasps/pure_fabrication.md)
 
+	
+* **SOLID**
 
+	[SOLID](solid/solid.md)
 
 
 * **Projeto**
