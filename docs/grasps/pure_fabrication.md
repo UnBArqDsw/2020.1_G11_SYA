@@ -12,7 +12,7 @@ Data | Versão | Descrição | Autor(es)
 ---- | ----------- | ------ | ---------
 25/10/2020 | 1.0 | Adicionando Fabricação Pura | [@lucasqmc](http://github.com/lucasqmc) 
 
-## **Pure Fabrication**
+## **Pure Fabrication/Fabricação Pura**
 <p align="justify">&emsp;Consiste na criação de uma classe que não representa nenhum conceito no domínio do problema, ela apenas funciona como uma classe prestadora de serviços, e é projetada para que possamos ter um baixo acoplamento e alta coesão no sistema. Atribuir responsabilidade apenas para as classes do domínio
 conceitual pode levar a situações de maior acoplamento e menor
 coesão. </p>
