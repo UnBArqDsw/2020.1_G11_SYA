@@ -17,78 +17,9 @@ Data | Versão | Descrição | Autor(es)
 <p align="justify">&emsp;O Decorator foi utilizado para a criação de entidades, onde conseguimos conectá-las ao nosso banco de dados, como podemos ver logo abaixo:
 </p>
 
-~~~javascript
-import {
-  Entity,
-  Column,
-  PrimaryGeneratedColumn,
-  CreateDateColumn,
-  UpdateDateColumn,
-} from 'typeorm';
-
-@Entity('users')
-class User {
-  @PrimaryGeneratedColumn('uuid')
-  id: string;
-
-  @Column({
-    length: 100,
-  })
-  name: string;
-
-  @Column({
-    length: 100,
-  })
-  email: string;
-
-  @Column({
-    length: 100,
-  })
-  cpf: string;
-
-  @Column({
-    length: 100,
-  })
-  operating_day: string;
-
-  @Column({
-    length: 100,
-  })
-  password: string;
-
-  @Column({
-    length: 100,
-  })
-  business_area: string;
-
-  @Column()
-  avatar: string;
-
-  @Column({
-    length: 100,
-  })
-  business_name: string;
-
-  @Column({
-    length: 100,
-  })
-  initial_hour: Date;
-
-  @Column({
-    length: 100,
-  })
-  finish_hour: Date;
-
-  @CreateDateColumn()
-  created_at: Date;
-
-  @UpdateDateColumn()
-  updated_at: Date;
-}
-
-export default User;
-
-~~~
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/gofs/decorator.png">
+</div>
 
 ## **Referências**
 
