@@ -24,6 +24,7 @@ mais vulneráveis às mudanças. A solução é atribuir responsabilidades de mo
 classe permaneça alta. </p>
 
 <div style="display: flex; justify-content: center; align-items:center;">
+
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/grasps/service-class.png">
 </div>
 
