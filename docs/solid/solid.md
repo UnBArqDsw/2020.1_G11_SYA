@@ -10,7 +10,7 @@
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-22/10/2020 | 1.0 | Adicionando Decorator | [@dansousamelo](http://github.com/dansousamelo)
+26/10/2020 | 1.0 | Adicionando documento | [@dansousamelo](http://github.com/dansousamelo)
 
 ## **SRP — Single Responsibility Principle**
 <p align="justify">&emsp;Princípio da Responsabilidade Única — Uma classe deve ter um, e somente um, motivo para mudar. Esse princípio declara que uma classe deve ser especializada em um único assunto e possuir apenas uma responsabilidade dentro do software, ou seja, a classe deve ter uma única tarefa ou ação para executar.</p>
@@ -86,6 +86,7 @@ Esse princípio basicamente diz que é melhor criar interfaces mais específicas
 
 <p align="justify">&emsp;De acordo com Uncle Bob, esse princípio pode ser definido da seguinte forma:
 </p>
+
   * <p align="justify">Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender da abstração.
   </p>
   * <p align="justify">Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.

@@ -5,8 +5,6 @@
 </div>
 <br>
 
-
-
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
@@ -15,8 +13,6 @@ Data | Versão | Descrição | Autor(es)
 ## **Controller/Controlador**
 <p align="justify">&emsp; O padrão controlador atribui a responsabilidade de manipular eventos do sistema para uma classe que não seja de interface do usuário (UI). O controlador é o primeiro objeto fora da camada de interface com o
 usuário a receber ou tratar uma mensagem para o sistema. </p>
-
-
 
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/grasps/controller.png">
