@@ -5,8 +5,6 @@
 </div>
 <br>
 
-
-
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------

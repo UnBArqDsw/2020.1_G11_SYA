@@ -72,7 +72,10 @@
 		[Pure Fabrication](grasps/pure_fabrication.md)
 		[Controller](grasps/controller.md)
 
+	
+* **SOLID**
 
+	[SOLID](solid/solid.md)
 
 
 * **Projeto**
