@@ -70,6 +70,7 @@
 		[Comportamentais](gofs/comportamentais.md)
 	* **GRASP's**
 		[Pure Fabrication](grasps/pure_fabrication.md)
+		[Controller](grasps/controller.md)
 
 	
 * **SOLID**
