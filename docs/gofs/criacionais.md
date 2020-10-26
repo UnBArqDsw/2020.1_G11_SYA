@@ -33,7 +33,9 @@ Data | Versão | Descrição | Autor(es)
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/gofs/singleton3.png">
 </div>
 
+## **Referências**
 
+ * <p align="justify">Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides (1994). Design Patterns: Elements of Reusable Object-Oriented Software</p>
 
 
 
