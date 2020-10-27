@@ -1,7 +1,8 @@
-# SYA
-**Número do Grupo**: 11<br>
-**Código da Disciplina**: FGA0208-T01<br>
+![brabo](https://user-images.githubusercontent.com/48137972/92975367-76798500-f45e-11ea-98d7-4636c014b5d5.png)
 
+<<<<<<< HEAD
+## Protótipo de Alta Fidelidade
+=======
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
@@ -11,24 +12,8 @@
 | 14/0169695 | [Luis Bruno Fidelis](https://github.com/lbrunofidelis) |
 | 15/0144474 | [Pedro Queiroz Miranda](https://github.com/pedroMiranda7410) |
 | 17/0046176 | [Tiago Miguel](https://github.com/tmcstiago) |
+>>>>>>> bc44ef820f70907db3d351ec189dfbca67757c6f
 
-## Sobre 
-Descreva o seu projeto em linhas gerais. 
+![certo](https://user-images.githubusercontent.com/48137972/92975570-ef78dc80-f45e-11ea-951f-a2a34d459638.gif)
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
-
-## Instalação 
-**Linguagens**: xxxxxx<br>
-**Tecnologias**: xxxxxx<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-Insira um manual ou um script para auxiliar ainda mais.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Vídeo
-Adicione 1 ou mais vídeos com a execução do projeto final.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Para mais informações acesse a nossa wiki ao lado ⌚.
