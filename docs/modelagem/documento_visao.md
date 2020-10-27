@@ -8,6 +8,7 @@
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
 25/09/2020 | 1.0 | Criação do documento | Daniel Sousa ([@dansousamelo](http://github.com/dansousamelo)), Pedro Miranda ([@pedroMiranda7410](https://github.com/pedroMiranda7410)), Luis Bruno ([@lbrunofidelis](https://github.com/lbrunofidelis)) |
+19/10/2020 | 1.1 | Atualização do tópico 2 | Lucas Leite ([@lucasqmc](http://github.com/lucasqmc) ) |
 
 <p align="justify">&emsp;O documento de visão visa capturar restrições de design e requisitos de alto nível para que o cliente possa compreender o sistema que será desenvolvido. Seu objetivo é fornecer uma visão ampla do produto que se pretende desenvolver, sem se aprofundar em detalhes.</p>
 
@@ -44,9 +45,25 @@ Data | Versão | Descrição | Autor(es)
 
 ## **2.1 Oportunidade de Negócios**
 
+<p align="justify">&emsp;Há uma grande demanda de donos de serviços que procuram por uma forma de gerenciar seus serviços prestados e seus  clientes de uma forma simplificada e prática, disponibilizando para o cliente uma maneira simples de agendar os serviços , visando promover agilidade e organização para o negócio.<p>
+
 ## **2.2 Descrição do Problema**
 
+. | . | 
+---- | -------| 
+O problema de|Não conseguir uma boa forma de organizar os horários agendados pelos seus clientes com diferentes funcionários     |
+afeta|Profissionais independentes prestadores de serviços distintos e seus funcionários |  
+tendo o impacto de| Perda de tempo e falta de organização no trabalho,levando a diversas consequencias     | 
+Para este,uma boa solução seria| Um sistema que auxiliasse na organização dos horários e dos funcionários, facilitando o agendamento dos clientes     | 
+
 ## **2.3 Sentença de Posição do Produto**
+
+. | . | 
+---- | -------| 
+Público alvo|Profissionais independentes prestadores de serviços distintos,seus funcionários e seus clientes     |
+Carência|Algo que facilite a organização de horarios agendados e funcionarios que realizarão o serviço, promovendo tambem a conexão com o cliente, que agendará o serviço |  
+Solução| Uma aplicação web que conta com paineis para organização de horarios agendados e funcionários, podendo tambem gerar um link para agendamento do serviço por parte do cliente     | 
+Descrição da solução| O profissional prestador de serviços se cadastra na aplicação e passa a utilizar os paineis para a visualização dos horarios agendados. Sendo capaz de cadastrar funcionários e serviçõs que serão selecionados pelo cliente que terá acesso apenas a interface de agendamento.     |
 
 ## **3. Perfil dos usuários**
 
