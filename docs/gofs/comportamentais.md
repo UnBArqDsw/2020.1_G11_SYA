@@ -1,20 +1,51 @@
 # Comportamentais
 
+<br>
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/gofs/pattern.png">
+</div>
+<br>
+
+<p align="justify">&emsp;Os padrões GoF's comportamentais lidam com
+os algoritmos e com a comunicação, entre os objetos.</p>
+
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-15/10/2020 | 1.0 | Adicionando os padrões comportamentais | [@tmcstiago](http://github.com/tmcstiago) e [@medeiroslucas](https://github.com/medeiroslucas)
-
+26/10/2020 | 1.0 | Adicionando padrões comportamentais | [@medeiroslucas](http://github.com/medeiroslucas), [@pedroMiranda7410](https://github.com/pedroMiranda7410) e [@tmcstiago](http://github.com/tmcstiago)
 
 ## **1. Template Method**
-<p align="justify">&emsp;É um padrão de design comportamental que define o esqueleto de um algoritimo de uma superclasse, porém permite as subclasses substituir etpas especifícas do algoritmo sem que haja alteração da estrutura principal.</p>
+<p align="justify">&emsp;O padrão **Template Method** define que o esqueleto de
+um algoritmo deve ser feito em na superclasse e as especificidades do objeto
+devem ser definidas em suas subclasses.</p>
+
+<p align="justify">&emsp;Utilizamos esse conceito na construção de uma interface
+que define as operações que podem ser realizadas por uma classe, posteriormente
+esses métodos são definidos independentemente.</p>
 
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/gofs/template_method.jpg">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/gofs/template_method.png">
 </div>
 
-## **2. State**
-<p align="justify">&emsp;É um padrão de design comportamental no qual o um ojeto altera seu comportamento de acordo com o estado.</p>
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/gofs/template_method_2.png">
+</div>
+
+## **2. Mediator**
+<p align="justify">&emsp;O papel do padrão **Mediator** é definir um objeto que
+agrega e acopla outros objeto garantindo que a as interações entre as entidades
+sejam realizadas apenas através do mediator.</p>
+
+<p align="justify">&emsp;No caso do nosso projeto o mediator é utilizado para
+concatenar todas as rotas em apenas um objeto, garantindo que o usuário não
+possa acessar nenhuma separadamente. </p>
+
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/gofs/mediator.png">
+</div>
+
+## **3. State**
+<p align="justify">&emsp;É um padrão de design comportamental no qual o um objeto altera seu comportamento de acordo com o estado.</p>
 
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/gofs/state1.jpg">
