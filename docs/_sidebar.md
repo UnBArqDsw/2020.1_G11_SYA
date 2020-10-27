@@ -71,6 +71,7 @@
 	* **GRASP's**
 		[Pure Fabrication](grasps/pure_fabrication.md)
 		[Controller](grasps/controller.md)
+		[Indirection](grasps/indirection.md)
 
 	
 * **SOLID**
