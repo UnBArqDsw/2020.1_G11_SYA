@@ -30,7 +30,37 @@ Com o objetivo de não sobrecarregar a próxima sprint (sprint de entrega) e em 
 |                               US15 - Eu, como prestador de serviços, desejo ser capaz de listar um funcionário. (Front-end)                               |          Luis Bruno          |    5   |
 |                              US31 - Eu, como prestador de serviços, desejo ser capaz de cadastrar um funcionário. (Back-end)                              | Lucas Leite e Lucas Medeiros |    8   |
 |                                US32 - Eu, como prestador de serviços, desejo ser capaz de listar um funcionário. (Back-end)                               | Daniel Sousa e Pedro Miranda |    5   |
-| US01 - Eu, como prestador de serviços, desejo criar um agendamento para meu cliente, para manter o agendamento do estabelecimento organizado. (Front-end) |         Tiago Miguel         |   13   |
 
-**Total:** 39 pontos
 
+**Total:** 26 pontos
+
+## Review
+
+### Revisão
+<p align="justify">&emsp;
+Mesmo sem pontuação entregue, notamos uma diferença de postura na equipe que melhorou o engajamento de alguns integrantes para a entrega terceira entrega da disciplina, na próxima sprint. Porém, será uma sprint com mais tarefas que o normal.
+</p>
+
+<a href="https://github.com/UnBArqDsw/2020.1_G11_SYA/milestone/7">
+  Backlog da Sprint
+</a><br/>
+
+### Fechamento
+
+|                                               Issue                                              | Status da Issue | Pontuação |
+|:------------------------------------------------------------------------------------------------:|:---------------:|:---------:|
+| US14 - Eu, como prestador de serviços, desejo ser capaz de cadastrar um funcionário. (Front-end) |  Não concluído  |     8     |
+|  US31 - Eu, como prestador de serviços, desejo ser capaz de cadastrar um funcionário. (Back-end) |  Não concluído  |     8     |
+|   US32 - Eu, como prestador de serviços, desejo ser capaz de listar um funcionário. (Back-end)   |  Não concluído  |     5     |
+| US15 - Eu, como prestador de serviços, desejo ser capaz de listar um funcionário. (Front-end)    | Não concluído   |     5     |
+
+
+**Total:** 0/26 pontos
+
+### Pontos Positivos
+* Aumento de Engajamento de alguns integrantes, comparado com últimas sprints;
+
+### Pontos Negativos
+* Baixo Engajamento no todo;
+* Acumular Histórias para última sprint e entrega final;
+* Sumiço de integrantes;
