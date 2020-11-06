@@ -31,8 +31,8 @@ Por estarmos criando nosso roadmap após ter iniciado algumas sprints, iremos no
 |:-------------------:|:------:|:------------------------------------------------------------------:|
 | 28/09/20 - 05/10/20 |   04   |                         US17 US18 US24 US25                        |
 | 05/10/20 - 12/10/20 |   05   |                              US20 US26                             |
-| 19/10/20 - 26/10/20 |   06   |                    US14 US15 US16 US31 US32 US33                   |
-| 26/10/20 - 02/11/20 |   07   |  US07  US34  US08  US35  US13  US38  Extras na sprint:  US10  US37 |
+| 12/10/20 - 19/10/20 |   06   |                    US14 US15 US16 US31 US32 US33                   |
+| 19/10/20 - 26/10/20 |   07   |  US07  US34  US08  US35  US13  US38  Extras na sprint:  US10  US37 |
 
 
 ## Roadmap - Entrega 4
@@ -43,7 +43,7 @@ Por estarmos criando nosso roadmap após ter iniciado algumas sprints, iremos no
 | 03/11/20 - 09/11/20 |   09   |        US01, US02, US05, US11       |
 | 09/11/20 - 16/11/20 |   10   |           US06, US16, US15          |
 | 16/11/20 - 23/11/20 |   11   |     US04, US07, US08, US22, US23    |
-| 23/11/20 - 27/11/20 |   12   | Vídeo do Projeto, US27, US28, US03  |
+| 23/11/20 - 27/11/20 |   12   | US27, US28, US03 Extra na sprint: Vídep do Projeto  |
 
 
 # Referências
