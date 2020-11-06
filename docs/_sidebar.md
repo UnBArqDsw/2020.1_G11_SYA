@@ -99,6 +99,10 @@
   [Sprint 3](planning_review/sprint3.md)
   [Sprint 4](planning_review/sprint4.md)
   [Sprint 5](planning_review/sprint5.md)
+  [Sprint 6](planning_review/sprint6.md)
+  [Sprint 7](planning_review/sprint7.md)
+  [Sprint 8](planning_review/sprint8.md)
+  [Sprint 9](planning_review/sprint9.md)
 
 * **Iniciativas Extras**
 	[Primeira Entrega - Pendências Ajustadas](pendencia/primeira.md)
