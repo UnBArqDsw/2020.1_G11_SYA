@@ -7,6 +7,7 @@
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
 | 14/10/2020 | 1.0 | Criação do documento | Pedro Miranda ([@pedroMiranda7410](https://github.com/pedroMiranda7410)) e Luis Bruno ([@lbrunofidelis](https://github.com/lbrunofidelis)) |
+| 19/10/2020 | 1.1 | Adição do tópico de Review | Pedro Miranda ([@pedroMiranda7410](https://github.com/pedroMiranda7410)) e Luis Bruno ([@lbrunofidelis](https://github.com/lbrunofidelis)) |
 
 ## Planejamento
 <p align="justify">&emsp;
