@@ -11,6 +11,7 @@ Data | Versão | Descrição | Autor(es)
 ---- | ----------- | ------ | ---------
 25/09/2020 | 1.0 | Adicionando diagrama de banco de dados| Lucas Leite ([@lucasqmc](http://github.com/lucasqmc)) |
 26/09/2020 | 1.1 | Adicionar DER e Diagrama lógico | Lucas Medeiros ([@medeiroslucas](http://github.com/medeiroslucas)) |
+19/11/2020 | 1.1 | Atualizando ME-R e Entidades | Lucas Leite ([@lucasqmc](http://github.com/lucasqmc)) |
  
 <p align="justify">&emsp;Abaixo encontra-se a representação em diagramas de banco de dados da aplicação.</p>
 
@@ -19,7 +20,6 @@ Data | Versão | Descrição | Autor(es)
 ### **Entidades**
 
 * USER
-* CLIENT
 * EMPLOYEE
 * WORK
 * APPOINTMENT
@@ -27,26 +27,28 @@ Data | Versão | Descrição | Autor(es)
 
 ### **Atributos**
 
-* CLIENT (id,user_id name, email, phone_number)
-* APPOINTMENT (id , date ) 
+* APPOINTMENT (id , date, user_id, work_id, employee_id,client_name,client_email) 
 * EMPLOYEE (user_id, id, name)
 * WORK (id, name, price, duration)
 * USER (id, name, email, password, avatar, business_name, business_area)
 
 ### **Relacionamentos**
 
-* CLIENT - has - APPOINTMENT
- * Um CLIENT pode possuir apenas um APPOINTMENT e um APPOINTMENT é de somente um CLIENT.
- * Cardinalidade **1 : 1**.
-* USER - has - EMPLOYEE
+* WORK - has many - APPOINTMENT
+ * Um WORK pode possuir vários APPOINTMENTS e um APPOINTMENT é de somente um WORK.
+ * Cardinalidade **1 : N**
+* EMPLOYEE - has many - APPOINTMENT
+ * Um EMPLOYEE pode possuir vários APPOINTMENTS e um APPOINTMENT é de somente um EMPLOYEE.
+ * Cardinalidade **1 : N**.
+* USER - has many - APPOINTMENT
+ * Um USER pode possuir vários APPOINTMENTS e um APPOINTMENT é de somente um USER.
+ * Cardinalidade **1 : N**.
+* USER - has many - EMPLOYEE
  * Um USER pode possuir vários EMPLOYEE e um EMPLOYEE é de somente um USER.
  * Cardinalidade **1 : N**.
 * EMPLOYEE - works - WORK
  * Um EMPLOYEE trabalha com um ou vários WORK(s) e um WORK pode pertencer a vários EMPLOYEE(s)
  * Cardinalidade **N : M**.
-* USER - has - CLIENT
- * Um USER pode possuir vários CLIENT(s) e um CLIENT pertence a apenas um USER 
- * Cardinalidade **1 : N**.
 
 ## **Diagrama Entidade-Relacionamento (DE-R)**
 
