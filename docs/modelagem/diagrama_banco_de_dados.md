@@ -12,6 +12,7 @@ Data | Versão | Descrição | Autor(es)
 25/09/2020 | 1.0 | Adicionando diagrama de banco de dados| Lucas Leite ([@lucasqmc](http://github.com/lucasqmc)) |
 26/09/2020 | 1.1 | Adicionar DER e Diagrama lógico | Lucas Medeiros ([@medeiroslucas](http://github.com/medeiroslucas)) |
 19/11/2020 | 1.1 | Atualizando ME-R e Entidades | Lucas Leite ([@lucasqmc](http://github.com/lucasqmc)) |
+20/11/2020 | 1.1 | Atualizando DE-R e Diagrama Lógico | Lucas Medeiros ([@medeiroslucas](http://github.com/medeiroslucas)) |
  
 <p align="justify">&emsp;Abaixo encontra-se a representação em diagramas de banco de dados da aplicação.</p>
 
@@ -52,15 +53,23 @@ Data | Versão | Descrição | Autor(es)
 
 ## **Diagrama Entidade-Relacionamento (DE-R)**
 
+### V1
 [![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/DER_PYA.png)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/DER_PYA.png)
 <p align="center"><i>Clique na imagem para ampliar</i></p>
 
+### V2
+[![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/DER_SYA_V2.png)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/DER_SYA_V2.png)
+<p align="center"><i>Clique na imagem para ampliar</i></p>
 
 ## **Diagrama Lógico**
 
+### V1
 [![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/Logico_SYA.png)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/Logico_SYA.png)
 <p align="center"><i>Clique na imagem para ampliar</i></p>
 
+### V2
+[![](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/Logico_SYA_V2.png)](https://unbarqdsw.github.io/2020.1_G11_SYA/assets/modelagem/Logico_SYA_V2.png)
+<p align="center"><i>Clique na imagem para ampliar</i></p>
 
 ## **Referências**
  * <p align="justify">Introdução ao Modelo de Dados e seus Níveis de Abstração. Disponível em: http://spaceprogrammer.com/bd/introducao-ao-modelo-de-dados-e-seus-niveis-de-abstracao/. Acesso: 25 set. 2020.</p>

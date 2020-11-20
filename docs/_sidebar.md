@@ -74,10 +74,10 @@
 		[Indirection](grasps/indirection.md)
 
 	
-* **SOLID**
 
-	[SOLID](solid/solid.md)
+[SOLID](solid/solid.md)
 
+[DAS](das/das.md)
 
 * **Projeto**
 	[Metodologia](metodologia/metodologia.md)
