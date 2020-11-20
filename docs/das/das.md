@@ -11,8 +11,17 @@
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
 20/11/2020 | 1.0 | Adicionando tópico 6 | [@dansousamelo](http://github.com/dansousamelo)
+20/11/2020 | 1.1 | Adicionando Introdução | Lucas Leite ([@lucasqmc](http://github.com/lucasqmc))
 
 ## **1. Introdução**
+
+### **1.1. Finalidade**
+
+<p align="justify">&emsp;Este documento tem como finalidade descrever, especificar e documentar as decisões arquiteturais relevantes na realização do projeto SYA. Descreve de forma clara e organizada os aspectos do sistema, procurando explanar de forma objetiva seus principais pontos. </p>
+
+### **1.2. Escopo**
+
+<p align="justify">&emsp;Este documento se aplica ao processo de desenvolvimento do SYA, um sistema desenvolvido conforme pede a disciplina de Desenho e Arquitetura de software na Universidade de Brasília. </p>
 
 ## **2. Representação Arquitetural**
 
