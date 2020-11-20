@@ -34,8 +34,6 @@ Data | Versão | Descrição | Autor(es)
 #### **Axios**
 <p align="justify">&emsp;Axios é uma biblioteca cliente HTTP, que funciona tanto no browser quanto em Node.js. A biblioteca é basicamente uma API que sabe interagir tanto com XMLHttpRequest quanto com a interface http do node. Isso significa que o mesmo código utilizado para fazer requisições ajax no browser também funciona no servidor. Essa biblioteca serve para realizar nossas requisições HTTP para o back-end, sendo fundamental sua utilização no decorrer de evoluções do sistema que necessitem da biblioteca para realizar chamadas. </p>
 
-#### **Materail UI**
-<p align="justify">&emsp;Material-UI é um projeto de código aberto que apresenta componentes React que implementam o Material Design do Google. Material-UI fornece um componente CssBaseline opcional. Ele corrige algumas inconsistências entre navegadores e dispositivos, enquanto fornece redefinições um pouco mais opinativas para elementos HTML comuns. </p>
 
 
 ### **Back-End**
