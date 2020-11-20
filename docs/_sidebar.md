@@ -88,6 +88,8 @@
 
 	[Políticas e Guia de Contribuição](git/politicas_git.md)
 
+	[Reutilização de Software](reutilizacao/reutilizacao.md)
+
 * **Reuniões**
 	[Ata - Sprint 02 - 14/09/2020](metodologia/atas/ata_sprint02.md)
 
