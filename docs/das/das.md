@@ -10,9 +10,10 @@
 ## **Histórico de Versões**
 Data | Versão | Descrição | Autor(es) 
 ---- | ----------- | ------ | ---------
-20/11/2020 | 1.0 | Adicionando tópico 6 | [@dansousamelo](http://github.com/dansousamelo)
+20/11/2020 | 1.0 | Adicionando tópico 6 | Daniel Sousa ([@dansousamelo](http://github.com/dansousamelo))
 20/11/2020 | 1.1 | Adicionando Introdução | Lucas Leite ([@lucasqmc](http://github.com/lucasqmc))
 20/11/2020 | 1.2 | Adicionando Tópicos 2 e 9 | Pedro Miranda ([@pedroMiranda7410](http://github.com/pedroMiranda7410))
+20/11/2020 | 1.3 | Adicionando Tópico 3 | Luis Bruno ([@lbrunofidelis](http://github.com/lbrunofidelis))
 
 ## **1. Introdução**
 
@@ -61,6 +62,24 @@ Data | Versão | Descrição | Autor(es)
 </p>
 
 ## **3. Requisitos e Restrições Arquiteturais**
+
+### Requisitos
+
+|  Requisito |                                          Descrição                                         |
+|:----------:|:------------------------------------------------------------------------------------------:|
+|  Segurança | A aplicação deve tratar e armazenar os dados do usuário de forma segura, com criptografia. |
+| Desempenho |       O sistema deve possuir um tempo de resposta e navegação entre as telas rápida.       |
+
+### Restrições
+
+|  Restrição |                                                                                                         Descrição                                                                                                         |
+|:----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Plataforma | O sistema terá suporte para navegadores modernos, como Chrome, Firefox, Opera, Safari, Edge. Para mobile, apenas a funcionalidade de Agendamento terá suporte, pois esta é destinada ao Cliente do prestador de serviços. |
+|   Conexão  |                                                                              Para interação com o sistema é necessária conexão com internet.                                                                              |
+|   Idioma   |                                                                                  Todo o sistema será desenvolvido em Português (Brasil).                                                                                  |
+|   Público  |                                                                                O sistema é destinado à brasileiros prestadores de serviços.                                                                               |
+|   Equipe   |                                                                                     A equipe de desenvolvimento possui 5 integrantes.                                                                                     |
+|   Entrega  |                                                                                   O prazo de entrega do sistema é ao fim da disciplina.                                                                                   |
 
 ## **4. Visão de Casos de Uso**
 
