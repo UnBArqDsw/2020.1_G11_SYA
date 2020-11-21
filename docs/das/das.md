@@ -12,6 +12,7 @@ Data | Versão | Descrição | Autor(es)
 ---- | ----------- | ------ | ---------
 20/11/2020 | 1.0 | Adicionando tópico 6 | [@dansousamelo](http://github.com/dansousamelo)
 20/11/2020 | 1.1 | Adicionando Introdução | Lucas Leite ([@lucasqmc](http://github.com/lucasqmc))
+20/11/2020 | 1.2 | Adicionando Tópicos 2 e 9 | Pedro Miranda ([@pedroMiranda7410](http://github.com/pedroMiranda7410))
 
 ## **1. Introdução**
 
@@ -24,6 +25,40 @@ Data | Versão | Descrição | Autor(es)
 <p align="justify">&emsp;Este documento se aplica ao processo de desenvolvimento do SYA, um sistema desenvolvido conforme pede a disciplina de Desenho e Arquitetura de software na Universidade de Brasília. </p>
 
 ## **2. Representação Arquitetural**
+### **2.1 Tecnologias**
+#### **2.1.1 Front End**
+<br>
+
+##### **React**
+<p align="justify">&emsp;
+    O React (também denominado React.js ou ReactJS) é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário (frontend) em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais. Em nosso caso, buscamos utilizar a linguagem typescript, acoplado no framework, que é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem e alguns outros recursos a linguagem, trazendo padronização de código e agilidade.
+</p>
+<p align="justify">&emsp;
+    A escolha do React se deve pelo objetivo, em conjunto, da equipe de se desafiar e aprender uma nova tecnologia. Contendo 2 integrantes com maior nível de conhecimento que os demais, que se proporam a ajudar.
+</p>
+
+#### **2.1.2 Back End**
+<br>
+
+##### **Node**
+<p align="justify">&emsp;
+    Node é um ambiente de execução Javascript server-side. Com ele é possível criar aplicações Javascript para rodar como uma aplicação standalone em uma máquina, não dependendo de um browser para a execução.
+</p>
+<br>
+
+##### **Express**
+<p align="justify">&emsp;
+    Express é um popular framework web estruturado, escrito em JavaScript que roda sobre o ambiente node.js em tempo de execução. Este módulo explica alguns dos principais benefícios deste framework, como configurar o seu ambiente de desenvolvimento e como executar tarefas comuns de desenvolvimento e implantação da web.
+</p>
+<br>
+
+#### **2.1.2 Banco de Dados**
+<br>
+
+##### **Postgresql**
+<p align="justify">&emsp;
+    Um sistema de Gerência de Bancos de dados Relacional estendido e livre que utiliza, como interface, a linguagem SQL.
+</p>
 
 ## **3. Requisitos e Restrições Arquiteturais**
 
@@ -41,6 +76,13 @@ Data | Versão | Descrição | Autor(es)
 ## **8. Visão de implantação (banco)**
 
 ## **9. Visão de processos (banco)**
+<p align="justify">&emsp;A Visão de Processos mostra como será feito o modelo de projeto, tendo como base uma visualização em sequência.</p>
+
+<img src="https://unbarqdsw.github.io/2020.1_G11_SYA/assets/das/Diagrama_Sequencia.png">
+
+<p align="justify">
+    <strong>Autor:</strong> <a href="http://github.com/pedroMiranda7410">Pedro Miranda</a>
+</p>
 
 ## **10. Qualidade (banco)**
 
